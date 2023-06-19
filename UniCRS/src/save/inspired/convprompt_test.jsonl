@@ -1,0 +1,960 @@
+{"pred": "System: What kind of movies do you like?", "label": "System: What are some genres you like? What was the last movie you saw?"}
+{"pred": "System: I love comedies and comedies too! What was your favorite comedy?", "label": "System: How did you like <movie>? It definitely has the drama aspect, did it leave you wanting more or was it not exactly what you were looking for?"}
+{"pred": "System: I think you would really like <movie>. It's a comedy and comedy movie about a woman who is a woman in a relationship with a man.", "label": "System: And what are your thoughts on action in film?"}
+{"pred": "System: I think you would really enjoy <movie>. It's a very action packed movie.", "label": "System: Definitely, movies like <movie> wouldn't be up your alley I'm guessing?"}
+{"pred": "System: I think you would like it. It's a great movie.", "label": "System: Haha it definitely was, I think I have a suggestion for you though"}
+{"pred": "System: It's a comedy with a lot of action and action. It's about a guy who is a cop and a cop in a gang.", "label": "System: So it's the new<movie>, the Mr. Rogers movie with Tom Hanks as the actor. It's not as much a comedic relief, but I saw it in theatres with my roomates and it's honestly a super refreshing and incredibly well directed movie."}
+{"pred": "System: I think you will like Mr. Rodgers. He is a very good actor and a great director.", "label": "System: The combination is incredible to be honest, and it lets you understand his background and who he was as a person so much more"}
+{"pred": "System: I think you will enjoy it.", "label": "System: Awesome, that's my recommendation then!"}
+{"pred": "System: It's a great movie. I think you'll enjoy it.", "label": "System: The trailer's awesome and it's even better in theater"}
+{"pred": "System: I'm glad you're here. I love movies! What was the last movie you watched?", "label": "System: Hi Erica. It's so nice to meet you!"}
+{"pred": "System: I'm sure you would like to see a movie that is about a family of five.", "label": "System: I will try my best! What was the last movie you watched?"}
+{"pred": "System: That's a great movie! I love Skyscrapers. I also like the new movie <movie>.", "label": "System: Oh that movie was awesome! I love The Rock."}
+{"pred": "System: It was great! I really enjoyed the movie.", "label": "System: I'm a tech nerd so the specs about the actual building, and then watching the tour of the building was amazing. The architecture was so detailed."}
+{"pred": "System: Yes, I have seen it. It was a great movie!", "label": "System: Yes. I know of two big ones. They are a few years old. One is <movie> which also features The Rock, and the other is any of the <movie> movies."}
+{"pred": "System: They are about a guy who is a loser who is trying to save his life and he has to find out what happens to his life.", "label": "System: The first one is about a man who is an NYPD officer. He has to save his wife and other hostages being held at Nakatomi Plaza in LA. There are lots of scenes with impossible rescues, and tons of action."}
+{"pred": "System: I hope you enjoy it!", "label": "System: My pleasure. I just know you'll love them, and they are great if you love binge watching or weekend movie marathons."}
+{"pred": "System: I'm glad you enjoy it!", "label": "System: I have the trailer available for you to watch as well."}
+{"pred": "System: It's a comedy with a lot of action and action. It's about a guy who is a cop and a cop in a world with a high crime rate.", "label": "System: A much younger Bruce Willis"}
+{"pred": "System: He is a great action movie.", "label": "System: He really is. I feel like he's what The Rock studied when he started acting. They had similar styles at the beginning."}
+{"pred": "System: You're welcome!", "label": "System: Of course. I hope you enjoy it.:)"}
+{"pred": "System: Yes, I do! Do you have any recommendations?", "label": "System: Yes, Family are my favorite and drama. What is your favorite type of movie?"}
+{"pred": "System: I love scary movies. What was the last movie you watched?", "label": "System: Wow, I think I know a movie you may like."}
+{"pred": "System: I recommend The Shining. It's a very good movie.", "label": "System: <movie> telling the story of Mr. Rogers is beautiful and eloqunt."}
+{"pred": "System: That's a great movie. I think you would really enjoy it.", "label": "System: Yes, Tom Hanks looks just like him in the movie. The resemblence is uncanny."}
+{"pred": "System: I hope you enjoy it.", "label": "System: Great I really hope you enjoy the movie. I can't wait to see it too."}
+{"pred": "System: It's out now.", "label": "System: It came out November 22, 2019 in the US"}
+{"pred": "System: I did. It was a great movie.", "label": "System: Yes, that was heartwarming as well. I love his genuine passion for loving people."}
+{"pred": "System: I did. It was a great movie.", "label": "System: Yes, I even met Mr. McFeeley once. That was exciting :)"}
+{"pred": "System: I think you will like it.", "label": "System: I hope you enjoy the movie!"}
+{"pred": "System: I love comedies and action movies. What is your favorite comedy?", "label": "System: For sure! First, do you have certain preferences or aversions? Like are you into musicals?"}
+{"pred": "System: What was the last musical you watched?", "label": "System: Good to know... I would have recommended <movie>, it's a classic and a bit of a tradition in our family, but there are so many to choose from! The old Tim Allen <movie>e movie is super fun and so is <movie>."}
+{"pred": "System: It's a very funny movie! I think you'll enjoy it!", "label": "System: Yes it is! It's a heart warming family comedy :)"}
+{"pred": "System: I hope you enjoy it!", "label": "System: You're very welcome! I hope you enjoy it!"}
+{"pred": "System: I think you will enjoy it.", "label": "System: I would absolutely recommend <movie> it's a kid's movie, but definitely funny so adults can enjoy too"}
+{"pred": "System: It's so funny. I love it! I'm glad you enjoyed it! Have a great day!", "label": "System: It's honestly kind of an all holiday theme. There's stuff in there about the Easter Bunny, and the <movie> and other characters like that. But there's definitely a dominant Christmas theme in it."}
+{"pred": "System: Have a great day!", "label": "System: You're welcome! I hope you enjoy them. Happy Holidays to you and your family"}
+{"pred": "System: Have a great day!", "label": "System: Besides <movie>, do you have any other favorites?"}
+{"pred": "System: I have not, but I'm not sure I have seen it. I'll have to watch it again now.", "label": "System: I have! It's been several years though. I always liked the original cartoon, but I can agree that Jim Carrey's performance was awesome and he really made it his own"}
+{"pred": "System: Thank you. I hope your day is great!", "label": "System: Thanks you too!"}
+{"pred": "System: What kind of movies do you like?", "label": "System: What was the latest movie that you've watched?"}
+{"pred": "System: I have not seen that one. What was it about?", "label": "System: What did you like most about it?"}
+{"pred": "System: I love the <movie>, I also like the movie <movie>.", "label": "System: I agree, they are all great actors."}
+{"pred": "System: Have you seen the movie <movie>?", "label": "System: I do too! I loved seeing him in <movie>."}
+{"pred": "System: It's a great movie! I think you will enjoy it.", "label": "System: Scorsese plays a part in it as well. I think you may like it."}
+{"pred": "System: It's about a group of people who are trying to find out who the killer is and who they are trying for.", "label": "System: It's about a Hollywood director (De Niro) that returns from France only to find out that the FBI and the House Committee on Un-American Activities is interested in him."}
+{"pred": "System: Great! I hope you enjoy it. I hope it is a good movie.", "label": "System: Great! I really think you will enjoy it!"}
+{"pred": "System: You too!", "label": "System: You as well!"}
+{"pred": "System: Awesome!", "label": "System: Best wishes and happy holidays."}
+{"pred": "System: What is the last movie you watched?", "label": "System: Oh nice! Me too! I've recently watched The Ring, have you heard of it? It's really old, from 2002 I believe. It was a movie I watched as a kid."}
+{"pred": "System: Yes, I saw the remake. It's a great movie.", "label": "System: No, I don't believe I've seen a remake. I think there was a sequel that came out a while back, but that's as far as I've gone with this. What recent movies have you seen? Have you seen <movie>? Not sure if that's a horror movie, though. Sure sounds like it."}
+{"pred": "System: I think you would like it if you haven't already seen it. It's a great movie.", "label": "System: Have you seen <movie> Comes Homes? Something about a haunted doll always gives me chills."}
+{"pred": "System: It's a great movie. I'm not sure if it's a good movie or not, but it's definitely a good one. I'll check it up.", "label": "System: So would you like to watch this movie trailer?"}
+{"pred": "System: I think you would like it", "label": "System: Here is a link to the trailer."}
+{"pred": "System: I think you will like it", "label": "System: I know you said you liked action adventure and horror, I guess we jumped right to it. I can recommend an action adventure movie as well if you'd like."}
+{"pred": "System: Awesome. I hope you enjoy it.", "label": "System: Have you seen <movie>. I am a big fan of Gerard Butler."}
+{"pred": "System: It's a great movie.", "label": "System: I have not seen that one, but I know it came out this year. It is actually a movie that I plan on watching since it is a sequel to a movie that I have seen and really loved called <movie>, which had a very dystopian type theme."}
+{"pred": "System: It is a great movie. I think you will enjoy it.", "label": "System: I think it would be better to watch the first of the <movie> movies, which is Olympus Had Fallen even though it is old, but if you end up liking it, you can then watch the movie that came out this year. How does that sound?"}
+{"pred": "System: I'm doing good!", "label": "System: Just looking for a good movie! Seen any?"}
+{"pred": "System: Oh nice! What are some of your favorite movies?", "label": "System: Which one is your favorite, and why?"}
+{"pred": "System: I love Christmas movies! I love the Christmas movies too!", "label": "System: What kind of movies do you dislike?"}
+{"pred": "System: Ok, I understand. What is the last movie you watched?", "label": "System: I think action movies are boring, too! I do like horror. And romance is played out."}
+{"pred": "System: Have you seen the movie <movie>?", "label": "System: I watched one recently called <movie>. It's about an old lady."}
+{"pred": "System: It's a movie about a woman who is a little girl and she's trying to get her son to come home and she has to go home to her family.", "label": "System: An old lady manipulates people into coming to visit her, and horror ensues."}
+{"pred": "System: Yes, it's a comedy.", "label": "System: Chloe Grace Moretz is in it. She was on <movie>."}
+{"pred": "System: It's a horror movie.", "label": "System: It's both."}
+{"pred": "System: Great! I hope you enjoy it.", "label": "System: I see you like horror and Christmas, would you like to see a trailer combining both?"}
+{"pred": "System: ok, i'll do it", "label": "System: So would you like to watch this movie trailer?"}
+{"pred": "System: What type of movies do you like to watch?", "label": "System: Personally I would watch <movie>. This movie was full of action."}
+{"pred": "System: I just watched the new movie with my wife. It's a great movie.", "label": "System: Mission Impossible is enjoying. Tom Cruise was great in this film."}
+{"pred": "System: I am a bot! I love Tom Cruise. I love his movies.", "label": "System: I have some great movies that I can refer you to. That is my current job."}
+{"pred": "System: The Terminator is a great movie. It is a very good movie.", "label": "System: The latest Terminator movie is Terminator: Dark Fate."}
+{"pred": "System: Yes. It is a great movie.", "label": "System: Yes"}
+{"pred": "System: <movie>", "label": "System: <movie> is a great film."}
+{"pred": "System: It's a great movie.", "label": "System: <movie> is a movie about a guy named <movie> Fleck who becomes mad and transforms into a criminal mastermind named <movie>."}
+{"pred": "System: You are right. I am not a fan of the Joker. I would recommend watching the movie.", "label": "System: Im human. So would you like to watch the movie trailer?"}
+{"pred": "System: It's a great movie.", "label": "System: Okay that sounds awesome."}
+{"pred": "System: What kind of movies do you like?", "label": "System: What can I help you wih"}
+{"pred": "System: Yes, I am looking for a movie recommendation.", "label": "System: I would recommend horror movies, but I would like to know what movies you like first"}
+{"pred": "System: Have you seen the movie <movie>?", "label": "System: The types with very serious actors (Stallone, etc) or, like <movie>?"}
+{"pred": "System: Got it.", "label": "System: Oh! I have a few ideas of what you have in mind. Are comic book characters interesting at all?"}
+{"pred": "System: Do you like superhero movies?", "label": "System: Okay. Would you like to watch this trailer for the Avengers?"}
+{"pred": "System: Have you seen the movie <movie>?", "label": "System: I haven't actually watched it yet. It is the one with that Thanos character and the Justice league, right?"}
+{"pred": "System: That's great. I hope you enjoy it!", "label": "System: I'm a fan! I hope it's a good trailer."}
+{"pred": "System: It's a great movie.", "label": "System: And the new <movie> has been all meme'd up, but I haven't heard much about it. Do you like those movies at all?"}
+{"pred": "System: Oh, I'm glad you like it!", "label": "System: It's about time for a new TMNT for realsies or a grimey comic character, and plus in the comic universe, how many times has <movie> had a starring role? I think they skipped him."}
+{"pred": "System: Yeah, I think you'll like it. I think it's the best one you'll ever see.", "label": "System: The nostalgia and filmography in like the <movie> movies in the 90s had a certain style that was masked over recently. I can't remember which films."}
+{"pred": "System: i am good. you? i am looking for a movie to watch.", "label": "System: I am well. What is your preference when it comes to movies?"}
+{"pred": "System: what is the latest movie you have watched?", "label": "System: oh nice. me to. whats the latest movie you've seen"}
+{"pred": "System: what is the last movie you watched", "label": "System: hmm I havent seen that one. Have you seen the <movie>?"}
+{"pred": "System: ok, i think you should watch the new <movie> movie", "label": "System: It is amazing. I think you'll enjoy it since you like drama and comedy"}
+{"pred": "System: what is it about?", "label": "System: yes, I definitely recommend it"}
+{"pred": "System: ok, i will send it to you", "label": "System: sound good. Im sure you'll enjoy it"}
+{"pred": "System: <movie>", "label": "System: Joaquin Phoenix and he did a great job"}
+{"pred": "System: in the middle of the night", "label": "System: in the past. it explains what led him to become the joker"}
+{"pred": "System: I hope you enjoy it.", "label": "System: good. you'll enjoy it"}
+{"pred": "System: I am good. I'm here to help you find a movie to watch. What kind of movies do you like?", "label": "System: I'm well. Definitely feels like a Tuesday haha"}
+{"pred": "System: Sure, I'm a big fan of movies. I'm not a big movie person.", "label": "System: You can say that again, I am too! I could definitely try to point ya in the right direction! What kind of movies are you into?"}
+{"pred": "System: Oh yeah! I love those too. I'm a big fan of the Christmas movies!", "label": "System: You can never watch too many Christmas movies around the <movie>. There's a new movie that just came out actually, it's called <movie> with Emilia Clarke! She's a great actress in my opinion!"}
+{"pred": "System: She's in the new movie, I think it's a Christmas movie.", "label": "System: It's a romantic comedy! She works as an elf every year at the store and meets a boy who turns her world upside down. Perfect holiday movie!"}
+{"pred": "System: I think you'll like it! It's about a girl who is a little girl and she's trying to get her boyfriend to come home and she has to go to her boyfriend's house to get a Christmas dinner.", "label": "System: I thought <movie> was interesting! But good choice, give the trailer a look!"}
+{"pred": "System: Great! I hope you enjoy it!", "label": "System: Of course, enjoy!"}
+{"pred": "System: The movie is actually really good! It's about a girl who is a little girl and she's a little princess. She's not a little boy but she's the little girl who's a princess.", "label": "System: I love John Cena, he's corny but it works for him!"}
+{"pred": "System: Oh, I love him too!", "label": "System: Dwayne Johnson is awesome! I love him and Kevin Hart. What do you mean, dragged?"}
+{"pred": "System: Oh, I'm sorry, I just saw the trailer for it.", "label": "System: Oh yeah, I understand that. It's a great family movie for kids though!"}
+{"pred": "System: That's great! I'm glad you liked it!", "label": "System: Hey, happy wife, happy life! Hahaha"}
+{"pred": "System: What kind of movies do you like?", "label": "System: What kind of movies do you like?"}
+{"pred": "System: I like action and horror movies. What did you like about the movie?", "label": "System: Great! What was the last movie that you saw?"}
+{"pred": "System: I saw the new movie <movie> last week. It was a good movie.", "label": "System: Can you tell me both?"}
+{"pred": "System: I think you would really like <movie>. It was a great movie.", "label": "System: Got It."}
+{"pred": "System: I think you would really like <movie>. It's a very different movie but it's very action packed.", "label": "System: If you have not seen it yet, I would suggest Mission Impossible: Fallout. Tom Cruise is good in it, but Henry Cavil is outstanding."}
+{"pred": "System: I agree. I also like the movie <movie>.", "label": "System: <movie> was a lot of fun."}
+{"pred": "System: It's a great action movie.", "label": "System: <movie> is the trailer."}
+{"pred": "System: I think you will like it.", "label": "System: Glad you enjoyed the trailer. Dave Bautista is fun in it."}
+{"pred": "System: I think you will like it. I hope you enjoy the movie.", "label": "System: Another fun movie was <movie> with Bruce Willis. Have you seen it?"}
+{"pred": "System: It's a great film.", "label": "System: Bruce Willis is a private detective that have to solve a case involving inappropriate murals being painted on a building. In the process he has to deal with drug dealers, a flatulent dog, and his sister in law losing her home."}
+{"pred": "System: I think you will like it. It's a great film.", "label": "System: So would you like to watch this movie trailer?"}
+{"pred": "System: I would like to recommend <movie>. It is a comedy with a great cast and a great actor.", "label": "System: Great! Here it is."}
+{"pred": "System: I think you will enjoy it. I hope you enjoy the movie.", "label": "System: Great! According to this task, I think we are done. I really hope you enjoy the movie. I am a movie buff myself and enjoyed the action and comedy."}
+{"pred": "System: I'm here to help you find a movie trailer. What kind of movies do you like?", "label": "System: awesome James, well I am the right guy to go to for movie ideas, I have been told I watch to many movies!!"}
+{"pred": "System: I think you would really like it. I think it's a great movie.", "label": "System: well what was the last movie that you watched? I would like to get a feel for your taste"}
+{"pred": "System: I have a movie for you. It is a new movie and it is a great movie. It has a lot of action and action.", "label": "System: Awesome I love the franchise, the movie did not do justice for the older classics"}
+{"pred": "System: I think you will like it. I think it is a great movie. I also like the new movies that are coming out.", "label": "System: yeah.. I just saw 21 bridges this evening!! very action paced movie"}
+{"pred": "System: I love that movie. I think you will like it.", "label": "System: <movie> with Will Smith would be a god movie for you!"}
+{"pred": "System: I love <movie>", "label": "System: you should check out the trailer for it, My opinion is Will smith hs not made a good movie in a while and this one is just his style"}
+{"pred": "System: I think you will like it.", "label": "System: what about lost in Space its an older movie but classic"}
+{"pred": "System: <movie> is a great movie. I think it is a classic", "label": "System: William Hurt, Mimi Rogers, Heather Graham and Lacey Chabert"}
+{"pred": "System: i think ive seen it in theaters and it was a great movie.", "label": "System: that would be cool. the movie is from 1988 but maybe one day they would bring it to be big screen again"}
+{"pred": "System: I hope you enjoy the movie.", "label": "System: bye bye"}
+{"pred": "System: I am glad you are able to understand that. I am not a fan of the movie genre but I am a fan.", "label": "System: DO YOU PERFER NEWER OR OLDER MOVIES"}
+{"pred": "System: I think you would like <movie>. It's a comedy and a drama.", "label": "System: HAVE YOU SEEN MEET THE MILLERS"}
+{"pred": "System: I think you would really like <movie>. It's a little bit of a slow movie but it's a great movie.", "label": "System: YOU SHOULD TRY WATCHING SUPERBAD OR THE INTERVIEW"}
+{"pred": "System: It's a comedy movie about a group of teenagers who are trying to find out who they are going to find in a situation where they are not allowed to be found out.", "label": "System: SETH ROGAN AND JAMES FRANCO ARE IN IT ITS A PARODY BASED ON NORTH KOREA BASICALLY RIDICULING KIM JUNG UN NORTH KOREAS DICTATOR"}
+{"pred": "System: I hope you enjoy it.", "label": "System: SAUSAGE PARTY OR EVEN <movie> ARE GOOD MOVIES TOO"}
+{"pred": "System: I think you will enjoy it.", "label": "System: WHAT ABOUT ACTION MOVIES HAVE YOU SEEN <movie>"}
+{"pred": "System: I think you will enjoy it. It's a little bit of a comedy.", "label": "System: WHAT OTHER ACTION MOVIES DO YOU LIKE"}
+{"pred": "System: I think you'll like it. I think it's a little bit different but it's still a great movie.", "label": "System: FAST AND FURIOUS FRANCHISE MOVIES?"}
+{"pred": "System: I think you'll like it.", "label": "System: I RECOMMEND YOU TRY WATCHING <movie>"}
+{"pred": "System: I have a movie to recommend. What kind of movies do you like?", "label": "System: Great I can definitely help you out with that, what type of movies do you like?"}
+{"pred": "System: I love action movies too! I really like the action in them.", "label": "System: Ok so <movie> is a great movie, a lot of action and if you like the first part there are 2 more."}
+{"pred": "System: Yes I have. I like it. I also like the action movies as well.", "label": "System: I have, it's really good the leading actor is <movie> Reaves, it's an american production."}
+{"pred": "System: Awesome, I think you will enjoy it.", "label": "System: He is a great actor, if you liked him in Matrix then you will enjoy the trailer of John Wick 100% guaranteed!"}
+{"pred": "System: Yes it is.", "label": "System: The movie came out in 2013 but the third part came out this year, its called <movie> 3: Parabellum also a great movie."}
+{"pred": "System: Yes it does.", "label": "System: Yeah definitely you can even buy them as a bundle, so would you like to watch this movie trailer?"}
+{"pred": "System: You're welcome.", "label": "System: Ok so is there another movie I can recommend?"}
+{"pred": "System: I think you will like it.", "label": "System: Ok glad to hear that so before the chat comes to an end I'm curious but what part of the <movie> did you like the most?"}
+{"pred": "System: I think you will like it.", "label": "System: Yeah I agree I loved that scene as well, my favorite movie is the first one."}
+{"pred": "System: I hope you enjoy the movie. I hope it is a good one. I'm going to watch it soon.", "label": "System: Ok, thank you for your time, bye."}
+{"pred": "System: what kind of action movies do you like?", "label": "System: okay. before I recommend you some movies, I would like to know what the last action movie you just watched"}
+{"pred": "System: oh, i love that movie. I have seen it a few times. I really like the action movies.", "label": "System: cool. so I assume you are a fan of superhero movies?"}
+{"pred": "System: I think you would really like the movie <movie>. It was a great movie.", "label": "System: that's nice! what do you like best from superhero movies?"}
+{"pred": "System: I love when the characters have special powers", "label": "System: ah I see... have you watched all Marvel movies?"}
+{"pred": "System: ok, I think you will like the Avengers movie.", "label": "System: then have you watched DC movies? like superman or batman?"}
+{"pred": "System: ok, I'll have to check out the first one then.", "label": "System: okay... there is a <movie> animated version."}
+{"pred": "System: ok, I'll have to check it out.", "label": "System: this animated version is titled: Spider-Man: Into the Spider-Verse and the plot is Teen Miles Morales becomes Spider-Man of his reality, crossing his path with five counterparts from other dimensions to stop a threat for all realities."}
+{"pred": "System: oh yeah, I remember that one too. I think you will like it.", "label": "System: Nice. Do you want to check it out?"}
+{"pred": "System: yes i have seen it. I think you will enjoy it.", "label": "System: yes I watched it with my friends and we really enjoyed it!"}
+{"pred": "System: I love all kinds of movies! I'm a big fan of action movies and action movies are really good too!", "label": "System: oh wow! awesome genres! Could I recommend the movie <movie>?"}
+{"pred": "System: it's a movie about a man who's trying to save a girl. He's trying for a girl's love.", "label": "System: Los Angeles policeman Lt. Marion <movie> Cobretti (Sylvester Stallone) finds himself at the center of a spate of murders carried out by a secret society called New Order: killers who select weak members of society for extermination. As the murder rate rises, Cobra takes model Ingrid (Brigitte Nielsen) into protective custody after she witnesses New Order's leader in action. As Cobra falls for Ingrid, they find shelter in a small town, but must soon fight for survival."}
+{"pred": "System: I hope you enjoy it!", "label": "System: awesome! do you think this something you could see yourself watching?"}
+{"pred": "System: I hope you enjoy it!", "label": "System: I really love action packed movies myself, and I have never seen a bad movie with Sylvester Stallone!"}
+{"pred": "System: Great! I hope you enjoy it!", "label": "System: thank you! I have to complete another 4 rounds of chats with you before it allows me to finish!"}
+{"pred": "System: Great! I hope you enjoy the movie!", "label": "System: what other movies do you like within this genre?"}
+{"pred": "System: oh wow! I am looking forward to seeing the trailer.", "label": "System: oh, nice! I have actually never seen any <movie> movies"}
+{"pred": "System: ok, I am watching the trailer now.", "label": "System: thats impressive honestly!"}
+{"pred": "System: What kind of movies do you like?", "label": "System: What did you see?"}
+{"pred": "System: Have you ever seen <movie>?", "label": "System: Oh wow! That was a good movie even though I am not a big Marvel fan. This made me want to see the other ones"}
+{"pred": "System: I love that movie! I love the Avengers movie too.", "label": "System: Is that one that you are suggesting?"}
+{"pred": "System: I think you would like Avengers Endgame", "label": "System: Got it"}
+{"pred": "System: Do you like Marvel movies?", "label": "System: What about <movie> was that any good?"}
+{"pred": "System: I think you will like it.", "label": "System: What is your all time favorite in this series of Marvel movies?"}
+{"pred": "System: I love the Avengers movie.", "label": "System: What is your second favorite? I am adding these to my list."}
+{"pred": "System: I think you will like the Avengers series", "label": "System: Yes that is a great movie!"}
+{"pred": "System: I think you will like it", "label": "System: I wasnt a real fan of the second one."}
+{"pred": "System: Have you watched the first one?", "label": "System: Thank you for sharing your time with me on some recommendations"}
+{"pred": "System: I'm doing well. How are you?", "label": "System: I'm good! How are you?"}
+{"pred": "System: What was the last drama you watched?", "label": "System: What is the last movie that you watched?"}
+{"pred": "System: Oh, I love that movie! I just watched the trailer for it.", "label": "System: Perfect! So do you want a movie with a similar story or a different one?"}
+{"pred": "System: Oh, I think you would be interested in that one too. It's a very similar story to the one you mentioned.", "label": "System: I recommend you to watch <movie>"}
+{"pred": "System: It's a very similar story to the original. It's about a car driving a car that is racing in a race.", "label": "System: Denny Swift is a Formula One race car driver who understands that the techniques needed on the racetrack can also be used to successfully navigate everyday life. Besides his career, Denny has three loves of his life -- his beautiful wife, their young daughter and his best friend, which is a dog that wants to be reincarnated into a human."}
+{"pred": "System: You're welcome. I hope you enjoy it.", "label": "System: You're very welcome! I'm happy to help"}
+{"pred": "System: The movie <movie> is a great movie. It's about a woman who is a woman and a woman's best friend. It is a very good movie.", "label": "System: Romantic and Drama"}
+{"pred": "System: That's a great movie. I'm not sure if you've seen it yet but I'm sure you will enjoy it.", "label": "System: <movie> and Me before you"}
+{"pred": "System: I think you will enjoy it.", "label": "System: Have you watched <movie>?"}
+{"pred": "System: I think you will enjoy it.", "label": "System: I'm glad to hear that! I hope you'll enjoy the movie"}
+{"pred": "System: I'm doing great. I'm looking for a good movie to watch.", "label": "System: I am doing great, thank you for asking! I am here to help recommend a movie for you. What kind of movie and movie trailers do you like to watch?"}
+{"pred": "System: What was the last movie you watched?", "label": "System: I feel that, sometimes cheesy movies feel like they're trying to hard to be funny. What's that last good movie that you watched? It can include a movie you watched at home or at the theater."}
+{"pred": "System: Oh wow, I love that movie. I think you'll like it.", "label": "System: Oooh, I haven't seen that one, I'll have to check it out! Are you interested in seeing a movie that's similar to <movie>, or something different- perhaps less girly?"}
+{"pred": "System: Oh, I'm not sure if you're familiar with that one. I'm a big fan of the older movies.", "label": "System: Okay, got it! What's your favorite comedy movie?"}
+{"pred": "System: Oh, I love <movie>. I think it's a little bit of a different story but it's still a great movie.", "label": "System: That's an awesome movie, so many great one liner jokes. Leslie had such great comedic timing."}
+{"pred": "System: I think you'll like it.", "label": "System: Would you be interested in watching <movie>?"}
+{"pred": "System: I think you'll enjoy it.", "label": "System: Okay, awesome! Have you seen <movie>? That's another great and funny movie with Will Ferrell in it"}
+{"pred": "System: I think it's a comedy with Will Farrell and Will Ferrel.", "label": "System: It also has Zach Galifianakis and Jason Sudeikis!"}
+{"pred": "System: I think you'll like it!", "label": "System: That's great! Would you be interested in checking out the trailer for it?"}
+{"pred": "System: I think you'll like it!", "label": "System: I'm glad to hear that! I'm going to send the trailer your way, I hope you enjoy it!"}
+{"pred": "System: I'm doing good. I'm here to help you look for a movie trailer.", "label": "System: I am doing well. Have you been to the movies lately?"}
+{"pred": "System: What was the last movie you watched?", "label": "System: Me too, love the movies. Have you seen Queen and Slim? It is amazing and gritty. I highly recommend it."}
+{"pred": "System: It's a movie about a woman who is a woman and a man. It's about a man who is in love with a woman.", "label": "System: It is a drama. What was the movie you saw over the weekend?"}
+{"pred": "System: Oh nice. I think I'll watch that one too. I'm sure you'll like it. Have a good night.", "label": "System: Cool, I was thinking of seeing that myself. How was it?"}
+{"pred": "System: Great! I hope you enjoy it. Have a great day.", "label": "System: That;s good. Was there anything that you did not like? What types of movies do you typically like?"}
+{"pred": "System: I think you would like it. It's a very good movie.", "label": "System: Cool, that is great about <movie>. If you like romance have you seen <movie>?"}
+{"pred": "System: I think you will enjoy it. It's a great movie.", "label": "System: It's a romance/comedy movie I've hear its quite good. It stars Emilia Clarke from Game of Thrones"}
+{"pred": "System: I think you will enjoy it. It's about a girl who is a little girl and she's a little princess.", "label": "System: Yes I loved that show too. I think she was also in a <movie> movie. Are you excited for the newest <movie> to come out at Christmas?"}
+{"pred": "System: I think so!", "label": "System: Yes, it came out recently, November 8"}
+{"pred": "System: I'm here to help you find a movie trailer.", "label": "System: I'm here to recommend you a movie, so what type of movie are you looking for?"}
+{"pred": "System: What was the last movie you watched?", "label": "System: Oh me too. Do you mind naming like a few that you already seen? Just in case I don't recommend something you watched."}
+{"pred": "System: Ok, I think you would like Alien: Alien Alien AlienAlien Alien Alien Aliens Alien Alien", "label": "System: Nice. Hmm one I can think of right now is <movie>. Have you already seen that movie?"}
+{"pred": "System: Yes, Looper is a great movie! I think you will enjoy it.", "label": "System: Yeah that is exactly it. I don't think I can say that much about the movie because it would be spoilers."}
+{"pred": "System: You're welcome.", "label": "System: You're welcome. I hope you enjoy it too."}
+{"pred": "System: I think so, but I'm not sure yet.", "label": "System: There's quite a few like Bruce Willis, Joseph Gordon-Levitt, Emily Blunt, and Paul Dano."}
+{"pred": "System: I think you will like it. It's a great movie.", "label": "System: I think you probably might like it more if you already watched Dark series from Netflix. Granted that it's not exactly the same thing, but they both have similar themes."}
+{"pred": "System: It's a great movie. I think it's a little bit of a slow start but it's still a great film.", "label": "System: Yeah it definitely is.My girlfriend picked it out for me and we instantly fell in love with it."}
+{"pred": "System: It's a great movie. I think it's a good one.", "label": "System: It might be a little confusing at first though, since it came from Germany."}
+{"pred": "System: That's a good one too. I think it's a great movie.", "label": "System: They made an English dub for it."}
+{"pred": "System: What kind of movies do you like?", "label": "System: What type of genres are you interested in?"}
+{"pred": "System: I'm a big fan of action movies. What is the latest movie you have watched?", "label": "System: I do like a good action movie. Have you seen the <movie> movies?"}
+{"pred": "System: Oh yeah, I love the Matrix. I also like the Matrix sequels.", "label": "System: They are coming out with Matrix 4 in 2021. It is starring <movie> Reeve's just like the previous ones. I really enjoy him as an actor. What movies have you watched recently?"}
+{"pred": "System: It is a great movie. I think you will enjoy it.", "label": "System: Are you looking for a movie trailer similar to that movie or something different?"}
+{"pred": "System: Ok, I will send you a trailer for the movie.", "label": "System: Are you interested in watching the trailer for Terminator:Dark Fate? It is action packed with guns. It also stars Arnold Schwarzenegger."}
+{"pred": "System: Awesome, I am glad to hear it. I hope you enjoy the movie.", "label": "System: <movie> is the movie trailer."}
+{"pred": "System: I agree. I think you will enjoy it. I hope you enjoy the movie.", "label": "System: Yes, it will be interesting to see what they do with this new movie. Especially since it has been so long since the last one was produced. I love a good <movie> movie."}
+{"pred": "System: I have a few movies that are similar to <movie>. <movie> is a great one.", "label": "System: Yes, I agree. I love science fiction movies. Do you like the <movie> movies?"}
+{"pred": "System: I would recommend watching the movie. It is a great movie. I think you will enjoy it. I hope you enjoy the movie as well.", "label": "System: I'm sure they will since Disney has taken over. They definitely want to make money after what they paid for the rights. Well I hope I have helped with your movie needs. If you should have any further questions feel free to ask. Hope you have a great day!"}
+{"pred": "System: What is the last movie you watched?", "label": "System: Which movie did see the last time you were in the movie theater?"}
+{"pred": "System: Have you seen the new movie The Last Boy?", "label": "System: So you also like family movies. Is this correct?"}
+{"pred": "System: I think you would like the movie <movie>. It's a family movie with a lot of action, comedy, and drama.", "label": "System: Which genre do you want me to recommend for you?"}
+{"pred": "System: I think you would like The Shining. It's a horror movie with a lot of action and drama.", "label": "System: Okay. I have a movie for you. <movie>"}
+{"pred": "System: I'm glad you like it.", "label": "System: Its a good horror movie and its based on the book written by Stephen King."}
+{"pred": "System: I think you will enjoy it. It's a great movie.", "label": "System: I have another movie for you. The <movie>"}
+{"pred": "System: Great. I hope you enjoy it. I'm sure you'll enjoy it", "label": "System: What other genres do you like besides horror"}
+{"pred": "System: Have you seen the movie <movie>?", "label": "System: I like Sci-Fi as well."}
+{"pred": "System: That's a great movie.", "label": "System: <movie> was awesome. I agree"}
+{"pred": "System: That one is good too.", "label": "System: I agree. It was nice chatting with you today."}
+{"pred": "System: What kind of movies do you usually like?", "label": "System: what was the last movie you've seen?"}
+{"pred": "System: I've seen that one too. It was a great movie!", "label": "System: Ah, did you like that movie?"}
+{"pred": "System: I think you would like it. It's a very different movie.", "label": "System: what did you like about it?"}
+{"pred": "System: I think you would really like <movie>. It's a comedy and a drama.", "label": "System: Was there anything about The Holiday you didn't like?"}
+{"pred": "System: I think you would really like <movie>", "label": "System: Have you heard of the movie <movie>?"}
+{"pred": "System: I think you'll like it!", "label": "System: Hmm, how about the movie Christmas with the Kranks?"}
+{"pred": "System: I think you would like it", "label": "System: That's too bad"}
+{"pred": "System: I think you'll like it", "label": "System: What about <movie>"}
+{"pred": "System: It's a great movie!", "label": "System: I think you would like it! Very romantic and funny"}
+{"pred": "System: I think you would really like <movie>. It's a comedy and a drama.", "label": "System: Wow, that is cool. What genre would that be?"}
+{"pred": "System: I like drama, comedy, and sci-fi. What is your favorite genre?", "label": "System: What is the latest movie you've seen?"}
+{"pred": "System: I think you would really like <movie>. It's a very good movie.", "label": "System: I never heard of that movie. What genre is that?"}
+{"pred": "System: That's a good one too. I think you'll like it.", "label": "System: Have you seen The <movie>?"}
+{"pred": "System: Yes, I have seen that one. It's a great movie.", "label": "System: Yes, that is related to Batan"}
+{"pred": "System: It's a great movie. I think you will enjoy it.", "label": "System: Yes, it goes through his childhood experiences."}
+{"pred": "System: It's a great movie. I think you'll like it.", "label": "System: Rotten tomatoes give it 3 and 1/2 stars"}
+{"pred": "System: It's a great movie.", "label": "System: You'll probably enjoy it."}
+{"pred": "System: I agree. I'm not sure if I would recommend it though.", "label": "System: Will you accept my recommendation for <movie>?"}
+{"pred": "System: Great! I hope you enjoy it!", "label": "System: That is great"}
+{"pred": "System: What kind of movies do you like?", "label": "System: I am here to help you looking for a movie trailer"}
+{"pred": "System: What type of comedy do you like?", "label": "System: Whats the last movie you watch?"}
+{"pred": "System: What was the last comedy you watched?", "label": "System: Got it"}
+{"pred": "System: Yes I do", "label": "System: Shazam"}
+{"pred": "System: It's a comedy film", "label": "System: Plot: We all have a superhero inside us, it just takes a bit of magic to bring it out. In Billy Batson's case, by shouting out one word - SHAZAM - this streetwise fourteen-year-old foster kid can turn into the grown-up superhero Shazam."}
+{"pred": "System: Great! I hope you enjoy it!", "label": "System: Ratings: Internet Movie Database: 7.1/10, Rotten Tomatoes: 90%, Metacritic: 70/100"}
+{"pred": "System: Great! I hope you enjoy it!", "label": "System: Actors: Zachary Levi, Mark Strong, Asher Angel, Jack Dylan Grazer"}
+{"pred": "System: They are all great actors.", "label": "System: Zachary Levi has been in <movie> as Fandral"}
+{"pred": "System: Yes, I have seen it. It's a great movie.", "label": "System: Yes I highly recommend you to watch it"}
+{"pred": "System: I hope you enjoy it!", "label": "System: you are welcome"}
+{"pred": "System: I'm good, how about you? I'm looking for a movie to watch.", "label": "System: do you want to talk about movies?"}
+{"pred": "System: what kind of movies do you like?", "label": "System: what kind of movies do you enjoy watching?"}
+{"pred": "System: I love comedies and action movies. What did you like about the movie and what didn't you like?", "label": "System: any specific comedies you like me to recommend?"}
+{"pred": "System: oh, i like that one too. I really like the movie <movie> with Will Ferrell", "label": "System: <movie>?"}
+{"pred": "System: it's a classic", "label": "System: that movies always makes me laugh, and so does big daddy."}
+{"pred": "System: I agree. I love that movie too.", "label": "System: thats a great movie?"}
+{"pred": "System: how about <movie>", "label": "System: want me to recommend it for you?"}
+{"pred": "System: ok, i will do it", "label": "System: ok I will select <movie>. I think thats the movie where he goes to hell and back."}
+{"pred": "System: oh yeah, i love that movie", "label": "System: Ok that will be the movie. Thank you so much."}
+{"pred": "System: I love movies! I'm a big fan of action movies and horror movies.", "label": "System: Yes, I've seen some great ones. What about you?"}
+{"pred": "System: I love horror movies! What was the last movie you watched?", "label": "System: I love horror and comedy. I also like action, and recently I have really enjoyed documentaries. Which horror movie is your favorite?"}
+{"pred": "System: Oh yeah, I love the new ones. I'm looking for something new.", "label": "System: I really like those too. I agree that the new ones aren't bad, but nothing beats the classics. Wow, that makes me think of a couple that you'd probably be interested in because of what you said. Do you like sequels at all?"}
+{"pred": "System: Oh wow, I love that movie. I think I'll have to watch it again now. I'm not sure if I'll like it though. I don't like horror movies. I'll watch it for the first time and then I'll see", "label": "System: I know. I also liked the <movie> series. I thought that some of the ones from the 80s were actually better than ones in the 70s. Do you recall who wrote the nightmare on Elm street movies because that'd help me make a recommendation. I think that made a movie recently you'd be interested in"}
+{"pred": "System: That's a great movie. I'm glad you like it. I hope you enjoy it.", "label": "System: Have you ever heard of Stephen King? Haha, you said you like horror so that might be a silly question. I forgot about his movies but those were some of my favorites growing up. If you like him, I actually have some really good recommendations."}
+{"pred": "System: He's a great actor. I'm glad you like it.", "label": "System: Hahaha that's crazy. I love Stephen King, and I love Orwell's 1984. That's crazy. I also think they did a decent job of turning King's books into movies. Which movies based on his books have you seen? I'll know which one to not recommend based on that."}
+{"pred": "System: I think you'll like <movie>. It's a great movie.", "label": "System: That's crazy. 1984 stuck with me for a long time and influenced me a lot. And that is a good fun fact about King hahaha. Now i'm going to have to look that up. Have you ever watched <movie>?"}
+{"pred": "System: I have not, but I have seen the original one. I think I will watch it again.", "label": "System: Yes, you have to check out <movie>. I watched that in 2019 and it's great. It's <movie> All grown up."}
+{"pred": "System: I think you'll like it. It is a great movie.", "label": "System: Yeah haha. You'll get why it's called <movie> when you see it though. Hey, it was nice talking to you. Have a good day."}
+{"pred": "System: What type of movies do you like?", "label": "System: How can I help you tonight? Which movie were you interested in?"}
+{"pred": "System: What was the last movie you watched?", "label": "System: Oh awesome, those are my favorite! Which romantic movie have you seen recently?"}
+{"pred": "System: I love movies that are about love. I love the romantic movies too.", "label": "System: I will have to watch that one. Would you like a movie similar to that one or more romantic comedy?"}
+{"pred": "System: Have you seen the movie <movie>?", "label": "System: Got it!"}
+{"pred": "System: The last movie I watched is <movie>. It was a great movie.", "label": "System: I love How to Lose a Guy in 10 days because Matthew McConaughey & Kate Hudson are such a perfect match and I find it to be so relatable. Its my favorite so I keep watching it over and over!"}
+{"pred": "System: It's a great movie. It's about a woman who is in a relationship with a man who is a little bit obsessed with her boyfriend.", "label": "System: Oh its definitely worth the watch! Just the right about of comedy but the chemistry is what keeps me watching it :)"}
+{"pred": "System: Great! I hope you enjoy it! Have a great day!", "label": "System: Well awesome :) Sounds good! I hope you enjoy!"}
+{"pred": "System: You too!", "label": "System: Were you interested in looking into any other movies?"}
+{"pred": "System: I think you'll enjoy it!", "label": "System: I saw <movie> too! It was the funniest one of the 3! I laughed so hard. It isn't really a horror movie but did you see"}
+{"pred": "System: Yes! I did. I think it was a great movie!", "label": "System: Yes sorry, I was typing Rambo: Last Blood but hit enter too soon! It isn't really a horror film but the gore factor takes that action/thriller movie to the next level. It was intense!"}
+{"pred": "System: I'm doing good. I'm looking for a movie to watch.", "label": "System: I'm doing very well. What kind of movies do you like to watch?"}
+{"pred": "System: Oh, I like thrillers! What was the last movie you watched?", "label": "System: I got a perfect one that hits all three. Have you seen <movie>?"}
+{"pred": "System: What was the last movie you watched?", "label": "System: It's amazing. It just won Academy Awards for Best Picture, Best Director, and Best Foreign Film. It's about a Korean family that tricks a rich family into hiring them and then tries to take over their house."}
+{"pred": "System: You're welcome!", "label": "System: Have you seen any foreign films that you really like? What do you like about them?"}
+{"pred": "System: You are right. I like the plot line and the story line.", "label": "System: <movie> is a gorgeous film! Stellar directing. In that same vein, I think <movie> is my favorite martial arts movie."}
+{"pred": "System: Great! I hope you enjoy it! Have a great day!", "label": "System: Oh good! I'll send along the movie trailer in a minute. What do you like about martial arts films?"}
+{"pred": "System: I think you will enjoy <movie>. It's a great movie. It has a great plot line and a great cast.", "label": "System: Well I think Crouching Tiger is a perfect film for you. It won four Oscars, including Best Foreign Language Film, and its screenplay was also nominated. What's your favorite martial arts film fight scene?"}
+{"pred": "System: I think you will like it!", "label": "System: There's a 2019 film called Shadow that has a fantastic scene where people fight with bladed umbrellas. It's a beautifully choreographed, white-knuckle scene."}
+{"pred": "System: It's about a group of people who are in a war against a war with a warlord and their team. It is a great movie.", "label": "System: It's hard to completely summarize, but I think Google does a good job: To finally achieve victory over a rival kingdom, a brilliant general devises an intricate plan involving his wife, a look-alike and two kings. I don't have access to the trailer, but I can send you the Crouching Tiger one if you'd like."}
+{"pred": "System: What kind of movies do you like?", "label": "System: What kind of movies do you like to watch with friends?"}
+{"pred": "System: Have you seen <movie>?", "label": "System: Oh great! I like action"}
+{"pred": "System: I agree! I love action movies too!", "label": "System: What was a funny movie you watched recenly"}
+{"pred": "System: I love that movie! I have seen it many times.", "label": "System: Ill have to check that out! i just watched <movie>... have you seen it?"}
+{"pred": "System: I highly recommend you watch the movie <movie>. it is a great movie.", "label": "System: What did you like about <movie>?"}
+{"pred": "System: yes i would recommend it.", "label": "System: It reminded me of the classic mob movies like goodfellas and scar face. Robert Di nero kills his role in it. Yes i would reccomend it"}
+{"pred": "System: I hope you enjoy it!", "label": "System: It is quite long but enjoyable. Definitley want to grab some snacks and drinks before. Best part is you can watch from Netflix at home!"}
+{"pred": "System: I hope you enjoy it!", "label": "System: Ill check out good boys aswell. looks like <movie> and those types of commedies. Excited about it. Thanks"}
+{"pred": "System: I think you will too.", "label": "System: Any other movies i should watch? commedies or action"}
+{"pred": "System: yes i have seen it. i love it.", "label": "System: no i havent"}
+{"pred": "System: oh wow i love <movie>. i love that movie.", "label": "System: Ill give it a look. Seems interesting!"}
+{"pred": "System: oh you should watch it", "label": "System: Thank you! have a great day"}
+{"pred": "System: I'm doing well. How about you?", "label": "System: I am well, and you?"}
+{"pred": "System: What kind of movies do you like?", "label": "System: That is good! Seen any good movies recently?"}
+{"pred": "System: Oh, I like horror movies! What is the latest horror movie you have watched?", "label": "System: Nice! I also enjoy horror movies, love a good comedy too."}
+{"pred": "System: The Shining, The Shining", "label": "System: It changes, but as of right now it is <movie>. What is your favorite horror film?"}
+{"pred": "System: Oh my god! I love the original!", "label": "System: Nice! those are some good movies."}
+{"pred": "System: Oh, I love those movies!", "label": "System: Borat is great, I recently watched Bruno."}
+{"pred": "System: I think you will like it!", "label": "System: Have you watched his new series Who is America?"}
+{"pred": "System: Yes! It's a great movie!", "label": "System: I have enjoyed it, definitly worth checking out."}
+{"pred": "System: You're welcome.", "label": "System: No problem!"}
+{"pred": "System: Yes, I would recommend watching the movie <movie>.", "label": "System: I would have to think about it, I recently watched <movie> that is more of a Thriller."}
+{"pred": "System: It's a great movie.", "label": "System: You'll have to do it! Well, its been good chatting, hope you have a good day!"}
+{"pred": "System: I'm doing good. I'm looking for a movie to watch.", "label": "System: Good, thank you for asking. I am here to help you look for a movie trailer. Do you have any preferences or know what you would like to see?"}
+{"pred": "System: What was the last movie you watched?", "label": "System: would you like to see a movie in theatre? or perhaps at home on Netflix?"}
+{"pred": "System: I think you would really like <movie>", "label": "System: What are some of you favorite funny movies, to get a better idea of what you enjoy!"}
+{"pred": "System: I love those movies. I love angry birds.", "label": "System: Do you have some favorite actors, people who's work tends to make you laugh or you find enjoyable?"}
+{"pred": "System: I love him too. I love his movies.", "label": "System: I don't know if you have seen Melissa Mccarthy's <movie> it came out last year in august, not still in theatres but"}
+{"pred": "System: <movie> is a great movie. I think you will enjoy it.", "label": "System: Have you heard of Dave Bautista? Most notably he plays the role of Drax in <movie>. He has a new movie out called <movie> with excellent reviews"}
+{"pred": "System: He is a great actor. I think he is a really good actor.", "label": "System: It is a"}
+{"pred": "System: Yes it is", "label": "System: Sorry I am having slight technical difficulties. It is a comedy yes! But it is also has adventure, and romance. The reviews are amazing!"}
+{"pred": "System: Great! I hope you enjoy it!", "label": "System: I think you would enjoy it! He also has a movie called <movie> which I think you would enjoy as well"}
+{"pred": "System: Great! I'm going to recommend a movie to you. What kind of movies do you like?", "label": "System: You're talking to the right guy! What kind of movies are you into? Star War is coming out this month and that's going to be huge if you're into Sci Fi."}
+{"pred": "System: Oh, I love Star Wars! I'm a big fan of the Star Wars movies too.", "label": "System: That's a must. What was the last movie you've recently?"}
+{"pred": "System: I love those too. I think you'll like the new Terminator series!", "label": "System: I love those as well. Have you heard about Bad Boys 3 coming out this Jan with Will Smith and Martin Lawrence. It's got plenty of action and long overdue for part 3."}
+{"pred": "System: It's a new one called The Last Jedi. It stars Will Smith, and is a great action movie.", "label": "System: Well you'll definitely have to catch up on the other 2. It's about two cops in Miami who are best friends. Ones a more tied down family man and the other is a big time playboy who like to live the lavish life. Although they both live completely different lifestyles, they work really well together. It's a very grounded buddy cop movie with plenty of action and comedy. A hit sequel came out and now after many years a third is going to be released in January."}
+{"pred": "System: That's a great movie. I'm glad I could help you.", "label": "System: Since you enjoy action films have you heard and seen the fast and furious franchise?"}
+{"pred": "System: I think you will enjoy the first one. It is a great movie.", "label": "System: Say no more. Are you more of a Stallone? Van Damme? or Scharzenegger fan?"}
+{"pred": "System: I think you'll like it. It is a great movie.", "label": "System: So I got two awesome choices you can tell me, which you prefer to hear more about. His awesome 80s hit <movie> or Last Action Hero? Although the second one came in the very early 90's I still have to add that because it's very underrated."}
+{"pred": "System: I think you will like it. It is a great movie.", "label": "System: The great thing about 80s films is you can go back and rewatch them so many times and still enjoy it. I forgot to mention his other hit <movie>! Its such a great 80s film demonstrating his cheesy yet entertaining acting. Set in the future as a regular working guy, he decides to enter a virtual world type place where he lives a fantasy life of a secret agent. Things go haywire in the process that lead to a crazy action adventure on Mars."}
+{"pred": "System: It's a great movie! I'm sure you'll enjoy it!", "label": "System: You won't regret it! Such a classic and still watchable to this day."}
+{"pred": "System: I hope you enjoy it!", "label": "System: No problem. Enjoy the film!"}
+{"pred": "System: I like comedies and action movies.", "label": "System: comedy movies for you"}
+{"pred": "System: what is the last movie you watched?", "label": "System: how old are you"}
+{"pred": "System: what is the latest movie you watched", "label": "System: i like dark comedies"}
+{"pred": "System: what is the latest movie you have watched?", "label": "System: i will recommend good movies"}
+{"pred": "System: yes, i like to watch movies with a little bit of comedy", "label": "System: ok give me"}
+{"pred": "System: what is the last movie you watched?", "label": "System: yeah i recommend good comedy movie and we will watch with our family"}
+{"pred": "System: what about <movie>", "label": "System: u like <movie> movie"}
+{"pred": "System: it is a great movie", "label": "System: are you seen this movie"}
+{"pred": "System: it is a great movie", "label": "System: iam also"}
+{"pred": "System: the part with the girl", "label": "System: 1st part"}
+{"pred": "System: What kind of movies do you like?", "label": "System: what kind of movies interest you"}
+{"pred": "System: I like all kinds. What is the last movie you watched?", "label": "System: nice i like romantic movies too"}
+{"pred": "System: i like the romantic movies", "label": "System: I recommend 1o things I hate about you, clueless, and 13 going on 30 are classics"}
+{"pred": "System: oh, i just saw the first one. it was a good movie", "label": "System: <movie> was humorous but also enjoyable to watch because the actors are very good"}
+{"pred": "System: i like <movie>", "label": "System: <movie> was actually really interesting to me Jlo is in it"}
+{"pred": "System: i like the new <movie> movie", "label": "System: I like romance movies to be honest I watch any movies"}
+{"pred": "System: ok, i think you will like <movie>", "label": "System: yeah i dont like horror either"}
+{"pred": "System: yes, i think it is a good movie", "label": "System: no i dont think so i dont like those type"}
+{"pred": "System: you are welcome", "label": "System: no problem!"}
+{"pred": "System: Great! I hope you enjoy it!", "label": "System: Awesome. Please tell me; what types of movies are you into? Scary, thriller, action, comedy?"}
+{"pred": "System: I love those too! I love to see old movies. What is the latest movie you have watched?", "label": "System: What is the last movie that you watched?"}
+{"pred": "System: I've never seen that movie. What is it about?", "label": "System: A Classic. It won an <movie> for Best Screen play which was later adapted into a theatrical musical <movie>"}
+{"pred": "System: Have you seen the movie <movie>?", "label": "System: Were you ever a fan of <movie>?"}
+{"pred": "System: It's a classic! I think you'll enjoy it.", "label": "System: It is of course based on the 1925 Novel written by F.Scott Fitsgerald. The original film version was lost but the movie has been redone several times and as recent as 2013 staring Leonardo Dicaprio. I would defiantly check it out."}
+{"pred": "System: I think you will enjoy it. It is a classic and a classic of the late 20th century.", "label": "System: Yes, A writer and wall street trader finds himself drawn to the past and lifestyle of his millionaire neighbor, Jay Gatsby. It of course gives us a look at how exciting night life was in the roaring 20s."}
+{"pred": "System: I think you will enjoy it. It's a great movie.", "label": "System: Awesome!! Hope you enjoy as much as I did."}
+{"pred": "System: I think so. It's a very good movie.", "label": "System: There is."}
+{"pred": "System: I hope you enjoy it! I hope it is a good one.", "label": "System: You are most welcome. I enjoyed helping you out this morning and hope you enjoy the movie."}
+{"pred": "System: I'm doing good. I'm here to help you find a movie to watch.", "label": "System: <movie> me a little more about what you are interested in lately"}
+{"pred": "System: What is the latest Disney movie you have watched?", "label": "System: Have you seen any Disney movies lately?"}
+{"pred": "System: I recently saw <movie> and it was really good. It was a good time.", "label": "System: Which ones have you seem lately? Which ones do you like? Which ones do you not like?"}
+{"pred": "System: I think you would really like Frozen 2", "label": "System: Those are both good movies, is there any movie you have not seen yet that you might like?"}
+{"pred": "System: I haven't seen that one. What is it about?", "label": "System: I was thinking about Maleficient, I think it might be really good too"}
+{"pred": "System: Yes, I would recommend watching the movie <movie>", "label": "System: Do you like star wars movies?"}
+{"pred": "System: What about <movie>?", "label": "System: So, would you like to see The Rise of Skywalker?"}
+{"pred": "System: Would you like me to recommend a movie for you?", "label": "System: Ok, I think you will like the trailer"}
+{"pred": "System: Great!", "label": "System: I think you might like watching the trailer, I hope you enjoy it"}
+{"pred": "System: I'm doing good. What kind of movies do you like?", "label": "System: My day is going well so far, thanks for asking! I'm here to help you find a movie. Can you tell me what kind of things interest you?"}
+{"pred": "System: I love all of those genres! What was the last movie you watched?", "label": "System: I also enjoy animated and horror films. Just so I have a general idea, what was the last movie you watched?"}
+{"pred": "System: What did you like about it?", "label": "System: GREAT MOVIE! No matter how much I watch it, I always seem to catch something I missed before."}
+{"pred": "System: Have you seen the movie <movie>?", "label": "System: I really loved <movie>! I'd have to say it's my go-to for movies I've already watched over 100 times."}
+{"pred": "System: It's a great movie. I'm glad you liked it!", "label": "System: You know what, me either! But the movie captures Batman's humor perfectly. - He's forced to drop is lone vigilante persona and join force with other superheros to beat the <movie> from taking over Gotham."}
+{"pred": "System: Yes, I love it!", "label": "System: It is! I've always loved Batman for his predetermined nature to be the outsider of all the superheros. Since I remembered some of your preferences for movies are animation and comic based, I thought this would be something unique for you. Plus there's a lot of funny adult-oriented humor. Although, there's not so much horror since they just break into a bunch of little Lego pieces when they get obliterated."}
+{"pred": "System: I'm not sure if I can recommend a movie for you, but I'm sure you'll enjoy it.", "label": "System: Thank you! Would you like to watch this movie trailer?"}
+{"pred": "System: I can't find it on Netflix. I'll look it up though.", "label": "System: You got it!"}
+{"pred": "System: I'm glad you enjoyed it! I hope you enjoy the movie!", "label": "System: I really hope you enjoy the trailer!"}
+{"pred": "System: I am doing good. What kind of movies do you like?", "label": "System: I'm doing well thanks. What type of genre of movies do you like?"}
+{"pred": "System: What was the last movie you watched?", "label": "System: Who are your favorite actors?"}
+{"pred": "System: Oh nice. I like Jennifer Anispere and Jennifer Anikas in this movie.", "label": "System: Are you a fan of Tom Cruise by any chance?"}
+{"pred": "System: What was the last movie you watched?", "label": "System: I know he was in the movie Mission Impossible: Fallout."}
+{"pred": "System: It's a great movie. It's about a group of people who are trying to find a cure for a disease.", "label": "System: It has excellent revies and I highly recommend this movie for you."}
+{"pred": "System: Have you seen the movie <movie>?", "label": "System: Yes it does. He is a very talented actor and the movie is fantastic and I think you will love it."}
+{"pred": "System: You're welcome.", "label": "System: I could't find the trailer for this movie but I have another movie by him and its called Mission Impossible Rogue Nation"}
+{"pred": "System: No, it's not a good movie. It's a great movie but it's a little bit slow.", "label": "System: It is and even better I think because it has won 6 awards and has been nominated 23 times."}
+{"pred": "System: The other actor is in the film.", "label": "System: Jeremy Renner, Simon Pegg and Rebecca Ferguson."}
+{"pred": "System: They are in all of them.", "label": "System: Of Course and especillay Jeremy Renner."}
+{"pred": "System: You're welcome.", "label": "System: You're very welcome and I hope you have a nice day!!!"}
+{"pred": "System: What kind of movies do you like?", "label": "System: I am here to help you looking for a movie trailer. Do you know what kind of movie trailers you would like to see?"}
+{"pred": "System: What was the last movie you watched?", "label": "System: Hmm, I think I have an interesting on for you to check out with Justin Timberlake and Amanda Seyfried. But before i suggest that have you watched any action/romance movies recently?"}
+{"pred": "System: Ok, I have a movie for you. I would like a recommendation for you, if you like action, romance, romance and romance.", "label": "System: Sounds good. Would you mind i leave a few similar suggestions with you before you go off to enjoy your movies?"}
+{"pred": "System: Have you seen <movie>?", "label": "System: There is a movie about artificial intelligence with a similar scifi romance theme cakked Trancendance with Johnny Depp"}
+{"pred": "System: That's a great movie. I think you will enjoy it.", "label": "System: No problem. Any other movie prefrences i should know about while i am recommending trailers?"}
+{"pred": "System: I think you would like <movie>", "label": "System: Do you enjoy superhero movies? I can suggest a few that fit your preference"}
+{"pred": "System: I think you will like the movie <movie>", "label": "System: Suicide squad from 2016 is pretty good and involves a romantic plotline, If you haven't seen The Amazing Spiderman i also suggest that. I most recentyly watched Spiderman: Into the Spider verse"}
+{"pred": "System: I think you will like it.", "label": "System: I think <movie> would be a good bet in terms of superheroes. Other than that Avengers: infinity wars has many characters but ultimatley has a good romantic plot as well. i suggest both for sure. I'll recommend <movie> trailer though."}
+{"pred": "System: It is about a man who is a superhero and a superhero. It is a very action oriented movie.", "label": "System: Suicide squad is about 2 hours and 17 minutes"}
+{"pred": "System: im doing good. do you like to watch movies?", "label": "System: i am good."}
+{"pred": "System: ok, what kind of movie do you like?", "label": "System: oh nice. i got some movies to recommend."}
+{"pred": "System: they are all good. i like a lot of different movies", "label": "System: it depends on what kind of movies you like to watch."}
+{"pred": "System: ok. i will recommend you a movie", "label": "System: newer movies or older type movies?"}
+{"pred": "System: ok. i think you would like it", "label": "System: i have a comedy movie to recommend"}
+{"pred": "System: the movie is called 'The man with jimmy jimbino", "label": "System: <movie>"}
+{"pred": "System: ok. i think you will like it", "label": "System: do you have any movies in mind you like?"}
+{"pred": "System: <movie>", "label": "System: how about <movie> with Kennau Reeves"}
+{"pred": "System: kenny kidd", "label": "System: ok I will recommend <movie> with Keenau Reeves"}
+{"pred": "System: you are welcome", "label": "System: your welcome"}
+{"pred": "System: What was the last movie you watched?", "label": "System: What was the last movie you two saw together, did she enjoy it?"}
+{"pred": "System: I think you would really like Star Wars Holiday Special", "label": "System: Haha, ok. Are you looking for more of a general comedy film or something perhaps more romantic?"}
+{"pred": "System: I think you'd like Star Wars: The Force Awakens. It's a very good movie.", "label": "System: Is there an actor or actress in particular that you know she likes?"}
+{"pred": "System: I think you would like this movie. It's a comedy with a lot of action and action. It is a comedy and a comedy.", "label": "System: Alright, let me see what I can find!"}
+{"pred": "System: I think you'll be fine.", "label": "System: How do you feel about <movie>? It's a mix of goofy comedy and action with the likes of Kevin Heart, Jack Black, and Dwayne Johnson."}
+{"pred": "System: Yes, he's in it.", "label": "System: Yup, I think he dropped the moniker awhile back when he got serious about acting."}
+{"pred": "System: I think you would like it.", "label": "System: Shockingly there isn't a lot in theaters at the moment, would you be opposed to watching something at home? Otherwise there's Sonic and <movie>."}
+{"pred": "System: I think you would like it.", "label": "System: If you don't mind watching something a little older, the original Overboard with Kurt Russell and Goldie Hawn. Those two have been an adorable couple in Hollywood for years and the film is a classic romantic comedy as far as I'm concerned. I can tell you a little bit about it if you're interested."}
+{"pred": "System: It's a comedy with a little romance. It's about a man who is a little man and a little girl.", "label": "System: Goldie Hawn plays an uptight high society type who cheats the carpenter (Kurt Russell) who is working on her yacht. After an accident gives her amnesia, he finds her and convinces her they're husband and wife. It sounds a bit dodgy but it's actually pretty adorable, especially when his kids get involved."}
+{"pred": "System: I hope you enjoy it! I hope it's a good one.", "label": "System: Great, I really hope you two enjoy whatever you decide to see! I'll send the trailer for <movie> straight away, bye and take care."}
+{"pred": "System: What kind of movies do you like?", "label": "System: I'm here to help you find a good movie trailer"}
+{"pred": "System: Oh! I love all kinds of rom com's. I also like movies that are action, and have a good story.", "label": "System: I love war movies too! What are your top 3?"}
+{"pred": "System: It's a great movie! I think I'll watch it again.", "label": "System: It sounds like you like gritty, fast-paced war films. Have you seen Dunkirk or <movie>?"}
+{"pred": "System: Yes, it is a very gritty and gritty movie.", "label": "System: He is in it! I thought he did a great job. By that I mean that he blended right in. You wouldn't have known that he wasn't previously a professional actor."}
+{"pred": "System: Yeah, I think he was a great actor. I think it was a good one too.", "label": "System: It's one of the most unique war movies I've seen in a long long time."}
+{"pred": "System: I'm glad you like it!", "label": "System: So would you like to watch the trailer?"}
+{"pred": "System: I think you will enjoy it.", "label": "System: Have you seen <movie>?"}
+{"pred": "System: I think it's a comedy with a comedy and a comedy.", "label": "System: Ken Watanabe. He's in <movie> if you've seen it"}
+{"pred": "System: I think it's better than the original but I think the special features are better.", "label": "System: I would say <movie>. Letters from Iwo Jima has more of a character focus if that makes sense."}
+{"pred": "System: I'm looking for a movie recommendation. I'm not sure what to recommend.", "label": "System: I am doing well. In order to help you best, what was the most recent movie you watched?"}
+{"pred": "System: What was the last movie you saw?", "label": "System: What genres are you interested in getting into?"}
+{"pred": "System: Have you seen the movie <movie>? It's a very good one.", "label": "System: From personal experience, I thought <movie> was a great horror film, without relying on jump scares. It also won an Academy Award for best original screen play."}
+{"pred": "System: You're welcome! I hope you enjoy it!", "label": "System: You're welcome. Enjoy the movie!"}
+{"pred": "System: Have a great day!", "label": "System: I will say, go into the movie with eyes wide open and and a clear mind. Its a psychological thriller."}
+{"pred": "System: Yes, I think you will be fine.", "label": "System: Do you happen to be fan of Will Ferrell? He is one of my favorites."}
+{"pred": "System: He is a great actor. He is also a great director.", "label": "System: If you're a fan of Adam Sandler, I would recommend one of my favorites of his, <movie>."}
+{"pred": "System: Great! I hope you enjoy it!", "label": "System: And for a Will Ferrell movie, you can't go wrong with Anchorman or <movie>. Two classics."}
+{"pred": "System: Great! I hope you enjoy the movie.", "label": "System: Alright, let me get you a formal recommendation for <movie>. Thank you for letting me help you today."}
+{"pred": "System: What kind of movies do you like?", "label": "System: I'm going to ask you a few questions about movies that you have watched in order to pick a movie trailer that's best for you. Is that okay?"}
+{"pred": "System: What was the last movie you watched?", "label": "System: What was the latest movie that you've seen?"}
+{"pred": "System: Oh nice! I've seen that one too. It was a good one.", "label": "System: That's an interesting title. Scarlett Johannsen is a great actress! What did you like about the movie? Anything you didn't care for?"}
+{"pred": "System: Oh, I think you'll like it. It's a very emotional movie.", "label": "System: Realistic movies feel easier to relate to. Do you enjoy watching romantic/serious movies or romantic/comedies?"}
+{"pred": "System: Have you seen the movie <movie>?", "label": "System: I would recommend <movie> starring Adam Sandler and Drew Barrymore. This movie is both relate-able and fun to watch. It explores how children can feel or behave in a single parent household and also single parents looking for love. Would you like to watch the trailer?"}
+{"pred": "System: It's a great movie. I think you will enjoy it.", "label": "System: Awesome! Please enjoy the trailer!"}
+{"pred": "System: You're welcome!", "label": "System: You're welcome."}
+{"pred": "System: Great!", "label": "System: Great. Let me get you to the trailer. Thank you for chatting with me and letting me help you pick a great movie for you."}
+{"pred": "System: It's a great film.", "label": "System: One moment please. Thank you for waiting."}
+{"pred": "System: what type of movies do you like?", "label": "System: how do you do"}
+{"pred": "System: I am good.", "label": "System: i am good"}
+{"pred": "System: what kind of movies do you like?", "label": "System: what movie have you watched last?"}
+{"pred": "System: oh yeah, i like that movie", "label": "System: it was a nice movie"}
+{"pred": "System: yes i watched it last week", "label": "System: yes i have seen it"}
+{"pred": "System: I like action, comedy, and horror movies", "label": "System: i like horror movie"}
+{"pred": "System: <movie> is a good one. It's a horror movie with a lot of action, action, and action", "label": "System: you can see conjuring"}
+{"pred": "System: ok, i think you'll be fine", "label": "System: ok can we finish"}
+{"pred": "System: okay i'll be here", "label": "System: ok bye"}
+{"pred": "System: What kind of movies do you like?", "label": "System: Do you know what kind of movie trailers you would like to see?"}
+{"pred": "System: What was the last movie you watched?", "label": "System: I was really impressed with code 8 good movie"}
+{"pred": "System: It was released in 2017", "label": "System: It was release on December 13, 2019. About a desperate young man possessing special powers clashes with a police force after committing a petty crime."}
+{"pred": "System: Have you seen the movie <movie>?", "label": "System: ok sonds good"}
+{"pred": "System: You're welcome. I hope you enjoy it!", "label": "System: your welcome"}
+{"pred": "System: Yes, I would recommend watching the movie <movie>", "label": "System: <movie>"}
+{"pred": "System: Great!", "label": "System: yeah watch the trailers"}
+{"pred": "System: Great!", "label": "System: ok"}
+{"pred": "System: <movie>", "label": "System: <movie>, terminator, also good movies"}
+{"pred": "System: <movie>, <movie> and <movie> are also good", "label": "System: ok hope you rewatch them and enjoy them again"}
+{"pred": "System: Do you know what kind of movie trailers you would like to see?", "label": "System: What kind of movie genre do you like?"}
+{"pred": "System: I love drama and action movies! What did you like about the movie?", "label": "System: Oh okay, same here those are good genres. What was the last movie you watched, did you like it?"}
+{"pred": "System: Yes I have! I saw it last night and it was a great movie! I also really liked the movie about the dog's journey to the dog.", "label": "System: I have heard of it! I read the book but haven't seen the movie just yet. Would you be interested in a movie like this one?"}
+{"pred": "System: You're welcome! I hope you enjoy the movie! Have a great day!", "label": "System: Im excited to hear that haha now I want to watch it! Have you seen a dogs purpose yet?"}
+{"pred": "System: Awesome! I hope you enjoy the movie!", "label": "System: A dogs way home would be a great movie to watch if you havent already. Since you have seen both of the other 2 movies above this one was great compared to those!"}
+{"pred": "System: Great! I hope you enjoy it!", "label": "System: youre very welcome!"}
+{"pred": "System: <movie>", "label": "System: Yes I do, Ashley Judd and Jonah Hauer-King play 2 of the main characters and Bryce Howard too, Bryce is who voices for the dog <movie> thats trying to get back home after breaking out of the window and chasing a squirrel only to get lost!"}
+{"pred": "System: it is a great film!", "label": "System: Its a very cute movie, I watched it with my husband and enjoyed it just as much as I did a dogs purpose :)"}
+{"pred": "System: I hope you enjoy it!", "label": "System: Yes I hope they do too, dog movies are the best in my opinion! The endings always make me happy when everything ends up being okay."}
+{"pred": "System: I hope you enjoy it!", "label": "System: Youre very welcome!"}
+{"pred": "System: I'm doing good. I'm here to help you look for a movie trailer.", "label": "System: Im great! Just ready for the weekend. Cant wait to watch some good movies! I hear you need a recommendation on a movie"}
+{"pred": "System: What was the last movie you watched?", "label": "System: Well, I know a lot of what is out and what has come out on DVD/NETFLIX. Are you interested in a current movie in the box office?"}
+{"pred": "System: I have a few, but I'm not sure if they are all available in the same day. I think you would like to see a movie trailer", "label": "System: Of course! What type of movies are you interested in? Are you in the mood for light hearted comedies, or something serious. Drama/action packed. That way I can narrow it down for you"}
+{"pred": "System: I think you would like the movie <movie>. It's a great movie.", "label": "System: OoOoOO! I love thrillers. Let me think on that. Well, I am doing that. Do you like a specific actor or actress? Maybe I can narrow it down."}
+{"pred": "System: I love Robert Downey Jr.", "label": "System: So, I did think o f a great movie I saw recently. I think it would be perfect. I unfortunatley cant think of anything with Robert Downy Jr or Amber Heard. Thats not a comic book movie. Have you heard of Valerian and the City of a Thousdand Planets. Its preety cool! IF you like the 5th element you might like this. Its about aliens and shapeshifting. It has Cara Delevingne in it."}
+{"pred": "System: I think you will like it. I am not a big fan of the 5TH element. I would love to see it. Have a good night.", "label": "System: Yeah. Cara, isn't the greatest actress, but I think she does a great job in this movie. I enjoyed it and I found even though the dialogue was a little bit cheesy. I enjoyed it."}
+{"pred": "System: I think you will enjoy it. It is a great film.", "label": "System: i'll send you the trailer"}
+{"pred": "System: I think you will like it. I hope you enjoy it. It is a great film.", "label": "System: Ohh well you should like this. I also think you can find <movie> on amazon but you have to pay for it"}
+{"pred": "System: I think you will like it. I think it is a great movie.", "label": "System: Not a problem."}
+{"pred": "System: what kind of movies do you like?", "label": "System: I would recommend any of the family holiday films on lifetime networks"}
+{"pred": "System: The movie <movie> is a classic", "label": "System: klaus or frozen 2"}
+{"pred": "System: yes it is", "label": "System: yes <movie> is in theaters now"}
+{"pred": "System: you are welcome", "label": "System: Thats great! I hope that you and your family enjoy the film!!"}
+{"pred": "System: you too!", "label": "System: You as well"}
+{"pred": "System: frozen 2 is the one that is about a family that is in a house and they are trying to find a new job.", "label": "System: <movie> 2 is now showing"}
+{"pred": "System: <movie> is coming out soon.", "label": "System: it may be available on disney.com"}
+{"pred": "System: Yes, it is available on Disney.", "label": "System: yes or purchase a copy"}
+{"pred": "System: on the net", "label": "System: thats the best site"}
+{"pred": "System: I think you will be able to find it on youtube.", "label": "System: www.disney.com for a copy"}
+{"pred": "System: I'm doing great. I'm looking for a good movie to watch.", "label": "System: Good thanks. I'm here to help you find a great movie to watch"}
+{"pred": "System: I like horror and comedy movies.", "label": "System: I love horror movies too! Do you have any good ones you watched lately?"}
+{"pred": "System: Oh yeah! I'm looking for a horror movie", "label": "System: I really enjoyed 1917 and <movie>. Have you seen either?"}
+{"pred": "System: What about <movie>?", "label": "System: Okay, did you ever watch <movie> back in the day?"}
+{"pred": "System: Have you ever seen The Shining?", "label": "System: Then I think you would definitely enjoy <movie>, it is a sequel to The Shining."}
+{"pred": "System: Have you ever seen the movie <movie>?", "label": "System: do you like to watch movies at home or at the theater?"}
+{"pred": "System: Have you ever seen the movie <movie>?", "label": "System: Me too, luckily it is now available at home. Do you usually watch by yourself or with friends?"}
+{"pred": "System: Ok, I think I will watch it again with my family.", "label": "System: yes always better to watch scary movies with someone to protect you lol. What's your favorite movie snack?"}
+{"pred": "System: ok i will check it out", "label": "System: No its not on Netflix just yet, but hopefully soon"}
+{"pred": "System: I think that would be a good choice.", "label": "System: Sounds like <movie> is a good choice then! Enjoy the <movie> trailer, I hope you enjoy it!"}
+{"pred": "System: What is the last movie you watched?", "label": "System: what's your favorite cyberpunk movie?"}
+{"pred": "System: I think you might like the new Blade Runner. It's a reboot of the Blade Runner and it's a bit different but it's still a good movie", "label": "System: gotcha. What do you think the remake got wrong?"}
+{"pred": "System: I agree, but I think it was a good movie. I think the main guy was a little too cocky.", "label": "System: absolutely. Did you watch Akira? What was your opinion on it if you did"}
+{"pred": "System: I agree, I think it was a good movie.", "label": "System: Awesome, me too! Do you prefer vintage cyberpunk or are you looking for newer movies/and/or remakes?"}
+{"pred": "System: ok, i think you will like it.", "label": "System: thanks! did you see <movie>?"}
+{"pred": "System: oh yeah! i love that movie.", "label": "System: what did you think of it?"}
+{"pred": "System: ok, i'll give it a try", "label": "System: for sure. It was really mixed reviews for that one. Have you heard of <movie>? It's a film on Netflix"}
+{"pred": "System: it's a great movie.", "label": "System: It definitely slid under the radar and I'd be interested to hear your thoughts on it! The premise is about a world with the non-existence of privacy and anonymity. Every person has an implant that records their every move, and their life and records can be accessed anytime through The Ether. I'd be interested to hear your thoughts on it"}
+{"pred": "System: I think you would like <movie>. It's about a man who is a serial killer and his life is a mystery.", "label": "System: it is definitely an interesting idea. It got mixed reviews so I'd be interested to hear your opinion on it. Do you accept my recommendation?"}
+{"pred": "System: I'm doing good. I'm looking for a movie to watch.", "label": "System: that's good. I'm doing well"}
+{"pred": "System: I'm not really into horror movies, but I like action movies, action movies are my thing too. What was the last movie you watched?", "label": "System: Yes, I'd like to recommend a movie for you. what are your preferences? what's the last movie you watched?"}
+{"pred": "System: I like that movie. I have a movie to recommend for you as well.", "label": "System: I really recommend <movie>, it's a psychological thriller. I think you'd like it"}
+{"pred": "System: It's a great movie. It's about a man who has to find out what he's doing and he has to figure out what to do.", "label": "System: It won 4 Oscars, you won't regret it. It's about a poor family in South Korea who all start working for a wealthy family by deceiving them"}
+{"pred": "System: <movie> is a good one. It is a very good movie.", "label": "System: Alright great. It examines greed, class and economic status. It becomes unexpectedly violent at the end"}
+{"pred": "System: You're welcome.", "label": "System: No problem. I"}
+{"pred": "System: <movie>, <movie>", "label": "System: yes. Jumanji is out now. It features The Rock, Jack Black, and Kevin hart. It's an adventure story with fantasy elements and humor as well. it's suspenseful and engaging"}
+{"pred": "System: ok i will check it out", "label": "System: it's very unique. Would you like to watch this movie trailer?"}
+{"pred": "System: I think I will watch the trailer.", "label": "System: Ok, that's great. I'm sure that you'll enjoy it. I'm glad i was able to help you.I want to see a movie soon too"}
+{"pred": "System: I like to watch movies", "label": "System: I think Star Wars - The rise of Skywalker"}
+{"pred": "System: It's a story about a group of Jedi who are fighting for the galaxy.", "label": "System: A young girl who has just realized she is a jedi and need to fight the New Alliance leader to keep them from running <movie>"}
+{"pred": "System: Yes. It's a very well made movie.", "label": "System: state of the art and realistic."}
+{"pred": "System: It is about a group of Jedi who are fighting the new empire and the new government of the new republic.", "label": "System: less than 3 hours"}
+{"pred": "System: ok, i will send it to you", "label": "System: That's great"}
+{"pred": "System: yes, it is a great movie", "label": "System: Not just yet, this is the last of the series."}
+{"pred": "System: i think you will like it", "label": "System: No, think this is the movie for the year"}
+{"pred": "System: It is the best", "label": "System: Done by <movie> films, they are the pioneer in movie graphics"}
+{"pred": "System: yes, it is a great movie", "label": "System: No, just think you'll have a great time watching it"}
+{"pred": "System: What was the last horror movie you watched?", "label": "System: Awesome! What is the last horror movie you saw, and what did you like about it?"}
+{"pred": "System: I love Scary Stories and Scary Movies! I also like the dark humor in the movie.", "label": "System: Oh that's a good one! Do you like horror movies based on true stories?"}
+{"pred": "System: I like the new <movie> movie. It's about a man who is a young man and his wife is a ghost and his daughter is a little girl.", "label": "System: Yes! I recommend watching the trailer for <movie>."}
+{"pred": "System: It is about a man who is in a coma after a heart condition and has a heart attack.", "label": "System: It's the sequel to <movie>. I have not seen it, but I want to!"}
+{"pred": "System: I think you will enjoy it!", "label": "System: Great! I hope you enjoy it."}
+{"pred": "System: I'm going to recommend the movie The Shining, it's a horror movie with a lot of action and suspense.", "label": "System: I am interested in watching <movie> and <movie> soon."}
+{"pred": "System: No, I haven't seen it yet. I'll have to check it out.", "label": "System: Not yet. I was thinking of watching it with my best friend before going to a theater to watch the new one!"}
+{"pred": "System: Have you seen the movie <movie>?", "label": "System: Thanks! Have a great rest of your day. I hope you enjoy the trailer for <movie>! It is creepy for sure."}
+{"pred": "System: You too!", "label": "System: Good night!"}
+{"pred": "System: What kind of movies do you like?", "label": "System: Im thinking about seeing a movie this weekend. Have you seen anything good lately?"}
+{"pred": "System: I like action and horror movies", "label": "System: I like everything except scary movies. Lots of Sci Fi. And anything animated. What about you?"}
+{"pred": "System: Yes, I love adventure movies. I also like the new Terminator movies.", "label": "System: I love the 80s! Lemme think of something good. Do you like 80s romances? Or maybe some 80s horror movies?"}
+{"pred": "System: Oh yeah, I love epic movies. I also like the action movies. Do they have any good ones?", "label": "System: Got it"}
+{"pred": "System: <movie>, <movie> and <movie> are the ones I'm looking for.", "label": "System: got it"}
+{"pred": "System: <movie>", "label": "System: How about <movie>!"}
+{"pred": "System: That's a great movie. I think you will enjoy it.", "label": "System: Totally. Wanna watch a trailer?"}
+{"pred": "System: ok, I think you will enjoy it", "label": "System: Nice :) I might try and be brave enough to watch it myself its been years. Did you see all the movies in ths series or just the first?"}
+{"pred": "System: I think you will like it", "label": "System: Sweet. I love a good movie night!"}
+{"pred": "System: I like action movies and comedies.", "label": "System: I was actually going to ask you that too! I like most types of movies, but scary ones are fun to watch with friends. How about you?"}
+{"pred": "System: What was the last scary movie you watched?", "label": "System: I'll have to check that out. What was the last movie you've seen?"}
+{"pred": "System: Oh, I haven't seen that one yet. What did you like about it?", "label": "System: ooo did you like it? I've heard it's good."}
+{"pred": "System: Have you seen the movie The Grunt?", "label": "System: Have you seen <movie>? That was my most recent movie."}
+{"pred": "System: It's a great film. I think you'll like it.", "label": "System: You might like the movie <movie> then, have you heard about it?"}
+{"pred": "System: <movie> is a great one.", "label": "System: Hmm maybe <movie>? It has great ratings."}
+{"pred": "System: It's a good one. I think you will like it.", "label": "System: It's older, but you might like <movie>! It's crime themed, and about the mafia"}
+{"pred": "System: I think it's a good one.", "label": "System: It seems like it would be really interesting, I'll add that one to my list!"}
+{"pred": "System: I think ive watched it, <movie> is a great one.", "label": "System: I don't have any others right now, do you want the trailer for <movie>?"}
+{"pred": "System: I'm doing good. I'm here to help you find a movie to watch.", "label": "System: Good :) I just finished watching <movie> lol"}
+{"pred": "System: I love zombies. I love the zombies.", "label": "System:? Excuse me"}
+{"pred": "System: I'm glad you like it too!", "label": "System: That reminds me of the movie <movie>. Have you heard of it?"}
+{"pred": "System: It's a great movie! I'm looking forward to seeing the movie trailer for it.", "label": "System: Do you like penguins?"}
+{"pred": "System: I love penguins! I love the penguins too.", "label": "System: Okay so youre into animal documentaries? Or do you like a different genre?"}
+{"pred": "System: I like the new <movie> movie", "label": "System: Okay, what would you like to talk about?"}
+{"pred": "System: I like the new <movie>", "label": "System: I genuinely like musicals"}
+{"pred": "System: Have you seen the movie <movie>?", "label": "System: Nice! You should check out <movie>! <3"}
+{"pred": "System: Oh my god I love him!", "label": "System: Im sorry I am unfamiliar with him. Im not very familiar with anything outside America"}
+{"pred": "System: Oh, I am sorry I was late to your comment.", "label": "System: I want to talk about movies! Everyone can connect with movies"}
+{"pred": "System: What is the last movie you watched?", "label": "System: I don't like spoilers either. Which <movie> was the last one you saw?"}
+{"pred": "System: Oh nice! I haven't seen the new one yet. I'll have to watch the new ones.", "label": "System: My favorite character in the <movie> saga is Han Solo."}
+{"pred": "System: He is the best in the saga. He is a great actor. He has a great voice for a young boy.", "label": "System: I saw the first <movie> when it first opened. His interaction with the characters was priceless. What was yours?"}
+{"pred": "System: Oh my favorite was the one with the girl who was in the movie.", "label": "System: Although Chewy never spoke in a English language, his responses were hilarious."}
+{"pred": "System: So you like the movie and the movie?", "label": "System: So would you like to see the Rise of Skywalker trailer online, TV or a theatre?"}
+{"pred": "System: Great. I think you will like it.", "label": "System: Me too. I can watch all the trailers instead of waiting for new ones to come on TV. Have fun!"}
+{"pred": "System: You too.", "label": "System: And you as well. May the Force be with you!"}
+{"pred": "System: You too.", "label": "System: An accomplishment for the day."}
+{"pred": "System: I think it will be a movie that will be released in 2019", "label": "System: <movie> suggests you like action and sci-fi. Dune is coming out."}
+{"pred": "System: What was it about?", "label": "System: Not familiar with that one. Is it a comedy? I know I've heard the title but who was in it escapes me."}
+{"pred": "System: I think you might like <movie>. It's a comedy with a lot of action, but it's a great movie.", "label": "System: Ah. So kind of like funny teenage movies like Super Bad? Do you like any action films or horror?"}
+{"pred": "System: I think you would like the movie <movie>. It's about a young girl who is trying to get her boyfriend to help her.", "label": "System: I LOVE horror movies. They are my absolute favorite. I can recommend older scary movies. New ones don't seem to be as scary. I like supernatural horror. I think Fantasy island is supposed to be scary. Have you seen that one yet?"}
+{"pred": "System: That's great. I'm glad you like it. I hope you enjoy the movie.", "label": "System: They do. I do like <movie> films and there is another one coming out this year. Not a spin-off like <movie> but an actual Conjuring movie. Can't wait."}
+{"pred": "System: The Conjuring is a great horror movie. It is a horror movie with a lot of suspense and suspense.", "label": "System: The Changling with George C. Scott, not Angelina Jolie. <movie>, Woman in Black was scary too. A British film called <movie> with Aidan Quinn is quite good as well. Hard to find."}
+{"pred": "System: I hope you enjoy it.", "label": "System: The second one wasn't as scary. I sure hope you enjoy it."}
+{"pred": "System: I hope you will too.", "label": "System: You too. Good luck finding scary movies to watch."}
+{"pred": "System: I hope you like it. I'm sure you will enjoy it", "label": "System: I'm sure you will."}
+{"pred": "System: Yes, it's a horror movie.", "label": "System: I watched that a ton of years ago. Probably back in the 80's. I think it's a little dated now, the special effects I mean. But that was good scary."}
+{"pred": "System: Oh, I'm sorry. I'm not sure if I can help you with that one.", "label": "System: Another older one would be <movie>. Not the one with Collin Ferrell. Chris Sarandon was in it. About a vampire."}
+{"pred": "System: I'm doing well. How about you?", "label": "System: I am great thank you. Would you like to talk about movies?"}
+{"pred": "System: What kind of movies do you like?", "label": "System: What are your top 5 favorite movies?"}
+{"pred": "System: Have you seen the movie <movie>?", "label": "System: Those are all great movies! <movie> is one of my favorites as well. What is the last movie you watched?"}
+{"pred": "System: Have you seen <movie>?", "label": "System: Have you seen any other of Taika Waititi's movies?"}
+{"pred": "System: Oh, I love Taika waititi. Have you watched any of his other films?", "label": "System: I really liked his movie <movie>, did you see that one?"}
+{"pred": "System: That's a great movie. I think you'll like it.", "label": "System: I know you have a lot of different tastes in movie genres, are you looking for a quirky comedy, horror, or thriller?"}
+{"pred": "System: What about <movie>?", "label": "System: Okay. How do you feel about musicals?"}
+{"pred": "System: Oh, I'm not sure if I can recommend any other movies for you. What do you think?", "label": "System: Have you ever heard of a movie with some singing in it called <movie>?"}
+{"pred": "System: That's a great movie. I think you'll like it.", "label": "System: Okay. Have you seen some other satirical comedies like <movie>, <movie> or <movie>?"}
+{"pred": "System: It's a comedy with a lot in common. It's about a man who is a little bit crazy and has a lot to do with his life.", "label": "System: Would you like to watch the trailer for it?"}
+{"pred": "System: I think you will enjoy it. It's a comedy with a lot of comedy in it.", "label": "System: Have you seen <movie>?"}
+{"pred": "System: I think you will enjoy it. It's a great movie. I think it's a classic.", "label": "System: What about Monty Python's Life of Bryan?"}
+{"pred": "System: I do not know of any.", "label": "System: You are quite the movie enthusiast! Have you seen Robin Hood Men in Tights?"}
+{"pred": "System: I think you will enjoy the movie. It's a great movie. I think it's a classic.", "label": "System: Are you a fan of horror comedies too like Shaun of the Dead?"}
+{"pred": "System: I think you will enjoy it. It's a great movie. I think it's a classic.", "label": "System: Have you seen <movie>?"}
+{"pred": "System: It's a great movie. It's about a man who is a serial killer and his life is a mystery.", "label": "System: I would love too! It is a horror comedy about a bunch of college friends that go up to a cabin for a getaway that is ruined by a bunch of zombie beavers. It is one of those movies that is aware it isn't great and is able to poke fun at itself. Would you like to watch the trailer for it?"}
+{"pred": "System: I'm doing good. I am here to help you look for a movie trailer.", "label": "System: <movie> one day at a time!"}
+{"pred": "System: I like action movies! I'm a big fan of the Marvel movies.", "label": "System: Well currently if you want to go to the movie theater you could see the new <movie> film. rise of skywalker. It is really good and will keep you on you seats edge for the whole movie. but if you are looking to stay in and rent or stream a good movie i would go with terminator dark fury or fast and furious hobbs and shaw. both of these movies are very good and will keep you well entertained."}
+{"pred": "System: I think you will like it. I hope you enjoy it.", "label": "System: You will not regret it! it has the return of the original Sarah Conner ( well the lady who played her in the very first movie, Linda Hamilton i believe is her name), as well as Arnold as the terminator that has aged thru time who has stayed to make sure things stay on track for the human race and sky net never rises. plus the new terminators are awesome!!! the graphics and effects are next level for sure"}
+{"pred": "System: Yes, he is the main character in the movie. He is the lead in the film.", "label": "System: yes he is, i didnt wanna spoil it!!"}
+{"pred": "System: they do not", "label": "System: well the t1000 is a endo skeletal machine system with living organic tissue. basically he gets older looking but his nucular battery keeps him going. they addressed this in the last movie <movie>"}
+{"pred": "System: <movie> is the one that comes to mind. It's a little bit of a twist but it's a great movie.", "label": "System: vudu, hulu, redbox, youtube tv, etc"}
+{"pred": "System: the streaming platforms are free, but theres a free version of it for free, so you can watch it for a nominal fee.", "label": "System: both really you can find it thru vudu and redbox for like 3.99 those are pay to play, but hulu is a service where you pay monthly amount and stream all you want,."}
+{"pred": "System: it does. <movie> is a great movie.", "label": "System: last year actually"}
+{"pred": "System: it was a great movie.", "label": "System: thats really a debate. some people didnt like it, but i think they where not bog fans of the franchise before hand, but fans of the franchise loved it."}
+{"pred": "System: yeah he was in the movie and he was great in it. he was also in the new Terminator and Terminator movies.", "label": "System: i dont think so.. well i have to log off now. is there anything else i can answer for you or help you with?"}
+{"pred": "System: you are welcome", "label": "System: glad to help!!! have a great day and enjoy the movie!"}
+{"pred": "System: What was the last movie you watched?", "label": "System: What do you like about Sonic?"}
+{"pred": "System: Have you seen the new <movie> movie?", "label": "System: I remember you saying you like Sonic because it has Jim Carey in it. Sonic is a family friendly movie- would you like a recommendation for more family friendly Jim Carey movies?"}
+{"pred": "System: Have you seen the movie <movie>?", "label": "System: What other movies do you like? I think action movies are very exiting. Do you like them too?"}
+{"pred": "System: Have you seen the movie <movie>?", "label": "System: What do you like about Bad Boys 2?"}
+{"pred": "System: It's a good movie. I think you will enjoy it.", "label": "System: I like it when movies are intense and I can connect with the characters too. Since you liked <movie> 2, I would recommend watching watching <movie>. It's the third movie in the <movie> trilogy, with all the same characters and intensity you love."}
+{"pred": "System: Have you seen the movie <movie>?", "label": "System: So would you like to watch this movie trailer?"}
+{"pred": "System: It's a good movie. I think you will enjoy it.", "label": "System: Wonderful! I think you will really enjoy this movie, especially since you liked the other Bad Boys movies. This newest installation in the Bad Boys trilogy shows Marcus Burnett and Mike Lowery reuniting when an Albanian Mercenary promises them an important bonus. Who is your favorite character in this film?"}
+{"pred": "System: That's a great movie. I think it's a good movie.", "label": "System: I agree, Marcus Burnett is very funny. I also really like Mike Lowery."}
+{"pred": "System: He is a great actor.", "label": "System: Will Smith is my favorite actor in the film. I'm glad you've decided to watch the trailer for <movie>. I think you'll really enjoy it!"}
+{"pred": "System: I'm doing great! I'm looking for a good movie to watch. What kind of movies do you like?", "label": "System: I'm ready to get off work lol, It has definitely been a Monday lol...."}
+{"pred": "System: What kind of movies do you like?", "label": "System: boo lol Have you seen the new <movie> 2 movie? My daughter is currently watching that movie on repeat lol"}
+{"pred": "System: Oh I love it! I'm looking forward to seeing the new one!", "label": "System: Okay, what about <movie> did you like> /"}
+{"pred": "System: Oh yeah, I really like the soundtrack too.", "label": "System: Okay, so you like musicals? and something family related"}
+{"pred": "System: Oh nice! I love musicals too.", "label": "System: Oh I bet you would like Sleepy Hallow!!!"}
+{"pred": "System: I think you will enjoy it!", "label": "System: Okay great!!! I'll send you the trailer"}
+{"pred": "System: I hope you enjoy it!", "label": "System: Great I am so happy I was able to recommend something :-)"}
+{"pred": "System: I hope you enjoy it! I hope it is a good movie!", "label": "System: Well if you super enjoy it please make sure to complete a survey about how well I did :-)"}
+{"pred": "System: I'm glad you liked it! I hope you enjoy the movie!", "label": "System: Awesome thank you! I will send that trailer in a few minutes, sorry my internet is acting up"}
+{"pred": "System: I'm doing well. I'm looking for a movie recommendation.", "label": "System: Good amazing, how about you?"}
+{"pred": "System: I'm going to recommend a movie called The Last Man, I'll recommend a new movie called, The Last Place.", "label": "System: Absolutely. Can you give me some examples of movies you watched and enjoyed?"}
+{"pred": "System: I love movies that are about the past. I also like movies that don't have a lot to do.", "label": "System: Great movie! Are you more interested in newer movies, or no preference?"}
+{"pred": "System: I think you would like Ex Machina", "label": "System: Do you like movies with a lot of action in them, or one that are more focused on the story and build up of events?"}
+{"pred": "System: I think you would like this movie. It's about a group of people who are trying to find out who they are going to find their best friend in the future.", "label": "System: I think I have the perfect movie for you. Do you enjoy a movie that you want to re-watch after its over because the ending was so unexpected?"}
+{"pred": "System: It's a very action packed movie. It's about a man who is in a coma and has to find a new job.", "label": "System: I recommend the 2013 movie Coherence directed by James Ward Byrkit."}
+{"pred": "System: It's about a group of people who are trying to find out who they are going to find their next victim.", "label": "System: Its about a group of friends having a dinner party on the night of a comet passing over Earth. The comet starts to cause a lot of strange things to start happening. After watching it you will want to watch it again to pick up on all the things you learned at the end of the first watch!"}
+{"pred": "System: It is available to rent on Netflix.", "label": "System: I believe it is on Hulu but I am not positive."}
+{"pred": "System: Great. I hope you enjoy it.", "label": "System: Perfect I hope you enjoy!"}
+{"pred": "System: It's a comedy with a lot more action and action. It's about a man who is in a coma and has to find out what happens to his friends.", "label": "System: Surprisingly not. the main actors in this movie are: Emily Baldoni, Maury Sterling, Nicholas Brendon, Lorene Scafaria."}
+{"pred": "System: I'm doing well. I'm looking for a good movie to watch.", "label": "System: Pretty well. I was just thinking about watching a movie to relax. Do you like movies?"}
+{"pred": "System: What kind of movies do you like?", "label": "System: Awesome. What kind of movies are your favorites?"}
+{"pred": "System: I love that movie! I love the movies that are about war. Do any of you like it?", "label": "System: Got it."}
+{"pred": "System: I think you would like the trailer for the new Terminator series. It's a great movie.", "label": "System: I have a couple suggestions. Have you seen Zombieland or <movie>?"}
+{"pred": "System: Have you watched <movie>?", "label": "System: SInce you like Zombieland, I would suggest Zombieland 2. It has some really funny parts and even some dopplegangers!"}
+{"pred": "System: Great! I hope you enjoy it!", "label": "System: That's great. I really think you'll enjoy it."}
+{"pred": "System: It is!", "label": "System: Yes. I've seen it myself and really enjoyed it."}
+{"pred": "System: They are different actors and they are very different actors.", "label": "System: They use the same actors and actresses, but there's a funny part where they meet some people similar to them."}
+{"pred": "System: It is. It is a comedy.", "label": "System: I do not believe that it is in most theaters. I believe you can watch it at Amazon Prime, Netflix, and Redbox."}
+{"pred": "System: It's a great movie. I think you will enjoy it!", "label": "System: Is there anything else I can help you with?"}
+{"pred": "System: You're welcome.", "label": "System: Have a great rest of your night, and I hope you enjoy the movie!"}
+{"pred": "System: I think you might like <movie>. It's a great movie. I love the movie about the time they were together.", "label": "System: Well, do you expect Avatar 2?"}
+{"pred": "System: I have a feeling that Avatar 2 is going to be the next big one. I think it will be the big one", "label": "System: Ohh Ok sir"}
+{"pred": "System: I have a few, but I would recommend you to see the movie <movie>. It is a great movie.", "label": "System: Just 2 hours"}
+{"pred": "System: Yes, but it is a long time to wait", "label": "System: Yeah <movie>!"}
+{"pred": "System: Yes sir", "label": "System: Hmm just 4 hours Sir!"}
+{"pred": "System: Do you have any other recommendations?", "label": "System: Well what is your name <movie>?"}
+{"pred": "System: I think you would like <movie>", "label": "System: I'm Veronica! <movie>"}
+{"pred": "System: It was a good movie.", "label": "System: Aah average of 25 movies per my lifetime Sir"}
+{"pred": "System: Yes, I do", "label": "System: Yes did most liked movie was Thriller category"}
+{"pred": "System: Did you like it?", "label": "System: Oh thanks so much sir"}
+{"pred": "System: Ok, I'm here!", "label": "System: Oh ok sir! thanks a lot for his attend a fulfil a meeting"}
+{"pred": "System: Thank you!", "label": "System: Yeah ok <movie>! Well Soon"}
+{"pred": "System: I love horror movies. I am a big fan of horror movies and I really like the horror movies that are about to come out.", "label": "System: Have you heard of the boy 2"}
+{"pred": "System: I think you would like the movie <movie>. It's a great movie.", "label": "System: Oh what did you like about it? I think you will like this one if you liked the last."}
+{"pred": "System: Yes it is. It is a very good movie.", "label": "System: yes William Brent Bell was the director from the first as well."}
+{"pred": "System: I'm glad you like it. I hope you enjoy the trailer.", "label": "System: No problem!"}
+{"pred": "System: I think ive seen the new <movie>, <movie> and <movie>. I think it's a great movie.", "label": "System: how about scary movie"}
+{"pred": "System: I think it's coming out in 2019.", "label": "System: I think they're done making them"}
+{"pred": "System: The new one is a good one.", "label": "System: how about <movie>?"}
+{"pred": "System: It's a horror movie about a man who is a doctor and he's a doctor.", "label": "System: its like a sequel years following the events of the shining, now-adult Dan Torrance meets a young girl with powers similar to his and he tries to protect her from a cult that preys on children with powers to remain immortal."}
+{"pred": "System: It's a great movie. I'm sure you'll like it.", "label": "System: Good glad you like the recommendation."}
+{"pred": "System: You're welcome.", "label": "System: you're welcome, enjoy your movie friend."}
+{"pred": "System: I like to watch movies. What kind of movies do you like?", "label": "System: For sure! What types of movies do you typically enjoy watching? What was the last film you saw?"}
+{"pred": "System: I love Knives out. It was a great movie. I think you'll like it.", "label": "System: I absolutely loved <movie>. I was hoping I'd be able to recommend it, truth be told. There was certainly plenty of action in the latest <movie> film, if you're into that. I gravitate towards a lot of horror and thriller films, myself."}
+{"pred": "System: Yeah, I'm not a fan of the new Star Wars movies. I think the new ones are a little bit better.", "label": "System: I think that's a fair observation of the genre, unfortunately. While the humor may not be as present, Rian Johnson's premier film called Looper was excellent as well, I thought. Films like Brick and Lock, Stock and Two Smoking Barrels also come to mind."}
+{"pred": "System: They're all great, but the other one is a little bit of a different story. I think the other is the one about the guy who's a cop and the other guy is a cop.", "label": "System: Brick is a pretty sleek noir film, not too funny but great as a hardboiled <movie>. Lock, Stock is a more lighthearted crime comedy about a group of friends who find themselves having to rob a small gang. Very funny, witty banter throughout. And if you like whodunnits, Murder on the Orient Express was delightful, at The Hateful Eight stands as a masterpiece."}
+{"pred": "System: I think you'll like it. I think it's a great movie.", "label": "System: I believe it may just be my favorite Tarantino film, which is not something I can say lightly."}
+{"pred": "System: Yes, I think it's one of the best Tarantino films.", "label": "System: It was fantastic. In fact, if you haven't seen it and are a fan of Tarantino, I'd list it as my top recommendation. I can't think of any better films this past year save perhaps Parasite as I haven't seen it. I was going to search for the trailer but it can't seem to be found."}
+{"pred": "System: I think you would be able to find the trailer for it. It's a great movie.", "label": "System: Just any trailer that the engine would find. It did manage to pull up one for Brick, though."}
+{"pred": "System: I'm glad you like it. It's a great movie. I'm sure you'll enjoy it.", "label": "System: I'm so glad to hear that! I've actually enjoyed this quite a bit. I don't get to talk about movies nearly as often as I would like."}
+{"pred": "System: You're welcome. I hope you enjoy it.", "label": "System: You're very welcome. Glad to meet you! Hopefully you enjoy Once Upon a Time as much as I did!"}
+{"pred": "System: What kind of movies do you like?", "label": "System: awesome. Can you tell me what types of movies you like?"}
+{"pred": "System: I love sci-fes. What was the last sci-fe movie you watched?", "label": "System: i love action/adventure and thrillers too! do you have any favorite actors or actresses?"}
+{"pred": "System: ok, i think you will like the movie <movie>", "label": "System: ok cool - 1 more question...would you prefer a new release or something that's been out for a while?"}
+{"pred": "System: I think you would like the movie <movie>. It's a new one that came out in 2017.", "label": "System: ok, here's my favorite favorite movie that I've seen recently - Bad Boys 3"}
+{"pred": "System: I think you will enjoy it.", "label": "System: it is great, not only a lot of action but really funny too!"}
+{"pred": "System: yes it is very funny.", "label": "System: In my opinion, it's the second funniest after the original movie."}
+{"pred": "System: yes, i think it's a great movie. I think it is a great film.", "label": "System: I'm not as big a fan of comic book movies, but i've heard bloodshot is supposed to be really good."}
+{"pred": "System: yes. Vin Diesel is a great actor.", "label": "System: yup, that's the one"}
+{"pred": "System: Great! I hope you enjoy it!", "label": "System: ok cool...do you think you'd prefer bad boys or bloodshot?"}
+{"pred": "System: I understand that you are looking for a movie trailer.", "label": "System: What kind of movies do you like?"}
+{"pred": "System: I like action and adventure movies. What are some of your favorite movies?", "label": "System: I would recommend any of the Marvel superhero movies for adventure."}
+{"pred": "System: Have you seen the movie <movie>?", "label": "System: Joaquin Phoenix is great in that."}
+{"pred": "System: Have you seen the movie <movie>?", "label": "System: Would you want to watch a trailer for <movie>?"}
+{"pred": "System: Okay. I think you'll like it. I'm not sure if you've seen it yet.", "label": "System: This movie came out last year and is one of the more recent Marvel movies."}
+{"pred": "System: It's a great movie. I think you'll enjoy it. It's about a man who is a superhero and is a hero in a superhero world.", "label": "System: It's got a good cast and female lead."}
+{"pred": "System: That's great. I'm glad you liked it. I hope you enjoy the movie.", "label": "System: Also Samuel L. Jackson is one of my favorite actors."}
+{"pred": "System: He is a great actor.", "label": "System: The storyline looks really interesting too."}
+{"pred": "System: I think you will like it. It's a great movie.", "label": "System: Agreed on the graphics. They really push the boundaries of what Hollywood is capable of."}
+{"pred": "System: I think you will enjoy it.", "label": "System: Yes these are great movies to watch in 3D."}
+{"pred": "System: I think you will be fine.", "label": "System: Me too. I hope you enjoy the trailer and the movie!"}
+{"pred": "System: What kind of movies do you like?", "label": "System: What kind of movie are you looking for?"}
+{"pred": "System: I love horror movies! What is the latest movie you have watched?", "label": "System: I would recommend the movie What We Do In the Shadows! It's a mockumentary about a group of <movie> it's pretty funny and has an interesting story"}
+{"pred": "System: That's great! I think you'll be looking at the movie <movie>. It's about a vampire who is a vampire and has a vampire virus.", "label": "System: Hm, the movie <movie> is pretty good, it's a comedy-drama about a somewhat estranged family being brought together because of their father's art show"}
+{"pred": "System: Great! I hope you enjoy it! Have a great day!", "label": "System: Great I hope you like it!"}
+{"pred": "System: It's not a very good movie. It's more of a comedy.", "label": "System: That movie stars Adam Sandler in a somewhat dramatic role, so I'd recommend another one of his more serious movies as well, like <movie> or Punch-Drunk Love"}
+{"pred": "System: I'm glad you like them! I hope they are as good as the original.", "label": "System: Great! I think most of them are on Netflix as well!"}
+{"pred": "System: I'm glad you like the movie!", "label": "System: 50 First Dates is another I'd recommend"}
+{"pred": "System: I do, but I'm not sure if they're available for me yet.", "label": "System: Yeah, if you like comedies, I'd also recommend The Disaster Artist, it's a comedy based on the making of the movie The Room, which is widely regarded as one of the worst movies of all time. It's pretty funny!"}
+{"pred": "System: I think it's about a guy who is a cop and a cop.", "label": "System: James Franco, Dave Franco, and Seth Rogen"}
+{"pred": "System: Yes it is!", "label": "System: I think it's on European Netflix, but I'm not sure about US Netflix"}
+{"pred": "System: It's on Netflix, I think.", "label": "System: Another I would recommend is Superbad, which I believe is on Netlifx"}
+{"pred": "System: What kind of adventure movies do you like?", "label": "System: What was the last adventure movie you enjoyed?"}
+{"pred": "System: I think you might like <movie>. It's a very good movie.", "label": "System: Ha! Thats what i was going to suggest"}
+{"pred": "System: I think you would really like <movie>. It's a very good movie. It has a great plot and a great cast.", "label": "System: Have you heard of The Aeronauts?"}
+{"pred": "System: It's a very good movie. It's about a man who is in a coma and has to find a way to get out of his depression.", "label": "System: In 1862 headstrong scientist James Glaisher and wealthy young widow Amelia Wren mount a balloon expedition to fly higher than anyone in history. As their perilous ascent reduces their chances of survival, the unlikely duo soon discover things about themselves -- and each other -- that help both of them find their place in the world."}
+{"pred": "System: I think it's called The Avengers.", "label": "System: Felicity Jones"}
+{"pred": "System: It came out in 2016", "label": "System: Oct of 2019 - Eddie Redmayne is in it as well"}
+{"pred": "System: I think you'll like it.", "label": "System: Its also inspired by a true story if youre into biography"}
+{"pred": "System: I'm not sure if you are aware of the movie but it is a great movie. It's about a guy who is in a mission to save the world from a war.", "label": "System: I think this sounds like a great movie to give a shot then"}
+{"pred": "System: It's a great film.", "label": "System: Sounds great!"}
+{"pred": "System: I like to watch movies.", "label": "System: Have you seen Golden Arc?"}
+{"pred": "System: It's a movie about a man who is in a coma and his wife is in love.", "label": "System: Well before i get to that i should say it's an anime are you still interested to know more?"}
+{"pred": "System: I love horror movies! Have you heard of <movie>?", "label": "System: Yea but are looking for the latest movies or you don't mind taking a back a bit?"}
+{"pred": "System: I think you would like the movie <movie>", "label": "System: i doubt lol but ok how about that new terminator dark fate i think it was?"}
+{"pred": "System: yes, it's called <movie>", "label": "System: yea i guess it entails a woman terminator from the future this time lol"}
+{"pred": "System: I think you will like it.", "label": "System: cool i have't seen it myself only seen trailers"}
+{"pred": "System: I have seen it, it's really good", "label": "System: yea i agree may go watch it after this chat"}
+{"pred": "System: I think you will too", "label": "System: any idea's on a horror before i go?"}
+{"pred": "System: ok, i'll be watching it", "label": "System: is that the one where they were in the woods as a family and couldn't speak so they signed most of the time?"}
+{"pred": "System: oh wow thats a good one too. i think i will watch it", "label": "System: cool ill look into it thanks"}
+{"pred": "System: what type of movies do you like?", "label": "System: watch any good movies latley?"}
+{"pred": "System: oh wow thats a good movie. I love the movie <movie>. I think you will love it", "label": "System: oh nice i heard parasite was the first south korean film to win an oscar"}
+{"pred": "System: ok, i think you might like it", "label": "System: It really was, I watched <movie> recently with joaquin phoenix and it was great, have you seen this one?"}
+{"pred": "System: yes, it's a great movie", "label": "System: It is awesome and joaquin phoenix role is fantastic, I would highly recommend watching it."}
+{"pred": "System: ok, i'll check it out", "label": "System: yea its great, are there any movies you haven't watched that you want to?"}
+{"pred": "System: yes, it is!", "label": "System: I unfortunately haven't seen it but after all the work they did to fix it I think it looks really good."}
+{"pred": "System: Yes, it did.", "label": "System: yea it got decent reviews around 6 and 7 out of 10"}
+{"pred": "System: Yeah, I think you'll like it. It's a great movie.", "label": "System: yea lol I want to see that and once upon a time in hollywood."}
+{"pred": "System: It's a movie about a group of people who are in a relationship with each other.", "label": "System: its quentin tarantino's newest movie, I have seen all of his other films but haven't got to see this one quite yet."}
+{"pred": "System: oh yeah i think i will watch it too.", "label": "System: sounds good you definitely should.:)"}
+{"pred": "System: I'm here to help you find a movie trailer.", "label": "System: how're ya doing?"}
+{"pred": "System: I'm doing well, thank you!", "label": "System: thats good! im curious what was the last movie you saw?:)"}
+{"pred": "System: oh wow! i love spiderman movies! i think you might like the movie <movie>", "label": "System: thats <movie>! <movie> has to be my favorite hero from the MCU, so, movie wise, what did you like about it and do you want a story similar to that or different?"}
+{"pred": "System: i think you would like it", "label": "System: Mmm, i see. Have you seen memento?"}
+{"pred": "System: ok, i'll check it out", "label": "System: Awesome!"}
+{"pred": "System: yes, i think you will be fine.", "label": "System: I believe so :)"}
+{"pred": "System: i like action movies, action movies and horror movies", "label": "System: mm to be honest im into psychological stuff too, but mostly movies based off of books, (or true stories in general) haha"}
+{"pred": "System: yes i have, i love that movie", "label": "System: No i havent, do you recommend it? also, i really enjoy tim burton's stuff!"}
+{"pred": "System: oh wow, i hope you enjoy it!", "label": "System: mm sounds like something middle school me would've been very into, haha. sounds interesting though, maybe ill have to check it out sometime."}
+{"pred": "System: I love to watch movies. What is the last movie you watched?", "label": "System: yes,i like movie do you seen lion movie trailer?"}
+{"pred": "System: I would recommend Lion King 2. It's a very good movie.", "label": "System: yes recommended this movie"}
+{"pred": "System: you should watch the movie <movie>", "label": "System: oh thanks"}
+{"pred": "System: no i did not", "label": "System: yes i'm seen original lion king."}
+{"pred": "System: I think the original is better.", "label": "System: lion is better,i'm here to help you choose the movie"}
+{"pred": "System: the animated version is the best", "label": "System: yes i'm think original version is better movie."}
+{"pred": "System: i think you will like the new one.", "label": "System: yes i like original movie"}
+{"pred": "System: i think the original is better.", "label": "System: this movie is original heartwarming."}
+{"pred": "System: it is the same as the old one.", "label": "System: yes this movie is original story"}
+{"pred": "System: What kind of movies do you like?", "label": "System: Do you like action movies or cmedy"}
+{"pred": "System: What was the last movie you watched?", "label": "System: I like the Coen brothers have you seen <movie>"}
+{"pred": "System: The Coen Brothers are a great Coen Bros. film.", "label": "System: it is a comedy but also has some dark elements. I found it very interesting would you be interested in a trailer"}
+{"pred": "System: It is a great movie. I think you will enjoy it.", "label": "System: Fantastic glad you like the recommendation, hope you enjoy it!"}
+{"pred": "System: It is a great movie. I think you will enjoy it.", "label": "System: they have other great movies as well"}
+{"pred": "System: Yes, they are great!", "label": "System: yes, burn after reading is another fantastic film"}
+{"pred": "System: Awesome! I hope you will enjoy it.", "label": "System: Ha yes it does, he plays a fitness trainer in the film."}
+{"pred": "System: It's a great movie.", "label": "System: glad we have the same taste in movies! ill try and think of any others that i liket"}
+{"pred": "System: I hope you will enjoy it.", "label": "System: i hope you enjoy it"}
+{"pred": "System: What was the last movie you watched?", "label": "System: Okay, are you able to give me examples of movies that you like with that kind of theme?"}
+{"pred": "System: I think you would really like <movie>. It's a very different movie but it has a very good story.", "label": "System: What about Not Cinderella's Type?"}
+{"pred": "System: I like the actors in Cinderella.", "label": "System: Pairs Warner, and Tim Flynn are the main actors There is also another very good movie called The Odd Life of Timothy Green which has Jennifer Garner"}
+{"pred": "System: I think you will like it.", "label": "System: That'd be great, I also love her acting! So you'd like to see the trailer for that one then?"}
+{"pred": "System: I can send it to you", "label": "System: This is the trailer for the movie."}
+{"pred": "System: I think you will like it.", "label": "System: Okay, sure how about <movie>?"}
+{"pred": "System: Yes it is", "label": "System: Yes! It's a very funny and good movie, I watched it years ago and still remember having seen it."}
+{"pred": "System: I think ive seen it, <movie> is a great movie", "label": "System: I'm sorry not that I can think of offhand."}
+{"pred": "System: It's also a great movie. I think you will enjoy it. It's about a man who is a serial killer and his wife is a murderer.", "label": "System: Maybe The Gabby Douglass Story?"}
+{"pred": "System: It's about a girl who is a woman who is in love with a girl that is in a relationship with a man.", "label": "System: It's about Gabby Douglass the Olympic gold medalist in women's gymnastics in I think it was 2012 - I love watching the women's olympic gymnastics team!"}
+{"pred": "System: Great! I hope you enjoy it!", "label": "System: Amazing, if you are happy I think we are done here :)"}
+{"pred": "System: I'm doing good. I'm looking for a movie to watch.", "label": "System: I am doing well! So, I see you're looking for movie recommendations. What was the last movie you watched?"}
+{"pred": "System: Dang! I love that movie! I just saw it last week. It was a great movie!", "label": "System: That's a great movie! The cast in it is great! Did you enjoy it?"}
+{"pred": "System: What did you like about it? What did it have to do with the action?", "label": "System: That sounds wonderful. I wish movie days were every day. I personally like to watch movies every Tuesday with my roommates."}
+{"pred": "System: Oh yeah, I love to watch that movie too. It's a good one.", "label": "System: How fun, do you guys like the Avengers? What about Captain America Civil War? Definitely one of my favorites."}
+{"pred": "System: I think you will enjoy it. I think it is one of the best superhero movies ever made.", "label": "System: Would you want to watch the trailer for Civil War? Definitely one to watch. I know you are transitioning into non-hero movies so I have another recommendation if you don;t want a hero movie."}
+{"pred": "System: I would recommend watching the trailer. It's a great movie. I think you will enjoy it.", "label": "System: <movie>! Dwayne Johnson is in it and it's filled with action but also very funny thanks to Kevin Hart."}
+{"pred": "System: It's a great movie. I think you will enjoy it.", "label": "System: Oh it's hilarious and one that'll keep you on your toes. Do you like Kevin Hart?"}
+{"pred": "System: I think you will like it. I think it's a great movie. I'm not sure about the movie but I'm sure it's good.", "label": "System: Good, you might enjoy this one, then. Do you care for ratings in movies? Or do you typically go with your gut?"}
+{"pred": "System: I think you will enjoy it.", "label": "System: I am on the same boat! Everybody has different tastes and sometimes these Hollywood critics are mega harsh!"}
+{"pred": "System: What was the last movie you watched?", "label": "System: What type of movies do you like?"}
+{"pred": "System: I think you would really like the movie <movie>. It's a very good movie.", "label": "System: Have you watched <movie>?"}
+{"pred": "System: I think you'll be fine. I think it's a great movie.", "label": "System: If you like that one <movie> is another good space movie."}
+{"pred": "System: Yes, it's a great movie. I think you'll like it. It's a little bit of a slow movie but it's still a great film.", "label": "System: Yes it came out in 2019, its another interesting story."}
+{"pred": "System: I think you will enjoy it. It's a great movie. I think it's a little bit of a slow start.", "label": "System: Yes its a great one to watch!"}
+{"pred": "System: I hope you enjoy it. I hope it's a great movie. I think you'll enjoy it as well.", "label": "System: of course your welcome!"}
+{"pred": "System: I did. It was pretty good.", "label": "System: Yed I watched the movie. Another movie like <movie> where their mission to space threatens the universe."}
+{"pred": "System: I think so.", "label": "System: <movie> 2 was a great movie and funny"}
+{"pred": "System: I think you'll like the movie", "label": "System: Yeah he can be too much thats forsure, its a great movie though without anyone losing their lives."}
+{"pred": "System: What was the last movie you watched?", "label": "System: I am a sucker for a good comedy as well! What is the last comedy that you have seen?"}
+{"pred": "System: That's a great movie. I love watching movies with Adam sandler", "label": "System: Adam Sandler is great! I loved him in Bedtime Stories!"}
+{"pred": "System: Yes! I love the plot twist!", "label": "System: You are so right! I was surprised at how appealing it was to adults and kids alike."}
+{"pred": "System: The movie <movie> is a classic", "label": "System: Actually, Ive heard good things about beach bum! Adam Sandler is not starring but it seems like something even he would enjoy!"}
+{"pred": "System: It's about a man who is in a relationship with a girl who is a serial killer and he is the best at keeping secrets.", "label": "System: Its about a stoner played by Matthew McConaughey that lives life by his own rules."}
+{"pred": "System: Great! I hope you enjoy it!", "label": "System: Good deal! I'm adding that one to my list as well!"}
+{"pred": "System: I like the <movie> movie, it's about a man who is a serial killer and a serial murderer.", "label": "System: I don't have as much experience with horror but Id love to send you the trailer for Beach Bum, if you're interested?"}
+{"pred": "System: It's a great movie!", "label": "System: Great! I'll get that ready for you."}
+{"pred": "System: It's a great movie!", "label": "System: While that is gearing up, I did some research on some recommended horror flicks."}
+{"pred": "System: That's a great movie. I'm going to watch it tonight.", "label": "System: I'm with you there!"}
+{"pred": "System: It's a horror movie with a lot of action and suspense", "label": "System: Have you seen Us? or Midsommar?"}
+{"pred": "System: It's a horror movie about a man who is a serial killer and his life is a mystery.", "label": "System: It is about a couple traveling to Sweden to visit a popular mid-summer festival. There is a twist that makes this more than an idyllic vacation tour."}
+{"pred": "System: You're welcome!", "label": "System: I am glad to help!"}
+{"pred": "System: I'm doing good. I'm looking for an action movie. I like action movies. What was the last movie you watched?", "label": "System: I'm doing great! :) So what types of movies are you interested in?"}
+{"pred": "System: What was the last movie you watched?", "label": "System: Wow rom-coms they are the best! And I know what you mean about horror movies being too scary"}
+{"pred": "System: Do you like movies with a good story?", "label": "System: Would you happen to remember the last rom-com you watched and liked?"}
+{"pred": "System: That's a great movie! I'm glad you enjoyed it!", "label": "System: I see! What did you like about that movie?"}
+{"pred": "System: It is a great movie. I think you will enjoy it.", "label": "System: Oh interesting there's a movie I think you will love then!! It's called A Star Is Born"}
+{"pred": "System: Great! I hope you enjoy it!", "label": "System: Great! It's got an all-star cast with Lady Gaga and Bradley Cooper :)"}
+{"pred": "System: You're welcome!", "label": "System: Please enjoy the film :)"}
+{"pred": "System: Yes, I do. I think it is a great movie.", "label": "System: Hmm if you like epic movies I may recommend the recent Disney Star Wars series or Marvel's Black Panther"}
+{"pred": "System: I think I will watch the movie.", "label": "System: How about The Lord of the Rings trilogy? I loved watching those movies as a kid :)"}
+{"pred": "System: What kind of movies do you like?", "label": "System: Have you seen any of the best picture nominees this year 2920?"}
+{"pred": "System: What was the last movie you saw?", "label": "System: Well, I see you like classics then, like me, is it correct?"}
+{"pred": "System: I think you might like <movie>. It's a comedy with a lot of action, and a lot more action.", "label": "System: Well I can recommend you some classics, like Titanic, terminator 1, Matrix, and so on, but I have one that is my all time favorite movie, do you like to know its name?"}
+{"pred": "System: I like to watch the <movie>, but it's not a very good one.", "label": "System: Contact 1997 with Jodie Foster. Under my point of view, it is the most beautiful and meaningful movie ever made, did you watch it?"}
+{"pred": "System: I think you would like it. It's a great movie.", "label": "System: I haven't heard about a new one, but that one is something worth to spend couple of hours watching. It has a great great message, it is very interesting, her performance is tremendous and it leaves you a good taste. I recommend you to watch it, and you will evaluate it by yourself"}
+{"pred": "System: It's a horror movie. It's about a group of people who are trying to find out who they are going to find the killer.", "label": "System: Drama, even thou it has lots of action and technology"}
+{"pred": "System: It's a great movie. I think you'll enjoy it.", "label": "System: Great! you won't regret it, I can bet"}
+{"pred": "System: It's a great movie. I think you'll enjoy it.", "label": "System: Well, another picture I enjoyed a lot, which is less profound, but with a great message too is Juno, it is very light but with very good story, have you watched it?"}
+{"pred": "System: It's a very light story, but it's very good.", "label": "System: No, it is about a girl who gets pregnant at 16 and it starts a big drama with a happy ending. Jenifer Garner is one of the main actresses and the movie won an Oscar too"}
+{"pred": "System: What was the last movie you watched?", "label": "System: I recently watched a movie called <movie>, where an eccentric and wealthy author is murdered and his family members are all suspects. Would you be into that?"}
+{"pred": "System: Yes it did. It was a very well made movie.", "label": "System: It's the type of movie where you won't see the end coming. Do you like Daniel Craig or Chris Evans?"}
+{"pred": "System: You're welcome. I hope you enjoy the movie.", "label": "System: So would like to watch this movie trailer?"}
+{"pred": "System: Great! I hope you enjoy it.", "label": "System: Awesome, hope you end up liking it. Take care!"}
+{"pred": "System: You are welcome.", "label": "System: It's definitely Daniel Craig's performance."}
+{"pred": "System: He's in the movie The Man Who Sold His Wife.", "label": "System: Most people know him from 007. I was shocked to see him doing a southern accent in <movie>."}
+{"pred": "System: Yes, I did.", "label": "System: I actually saw it at home. It would definitely be good to see at home or in theater's."}
+{"pred": "System: Yes it is.", "label": "System: Not yet. You can it on Amazon Prime for $3.99 and probably also through your cable provider."}
+{"pred": "System: Yes, I think so.", "label": "System: Definitely! It's one of my favorite movies this year."}
+{"pred": "System: Yes, I think so.", "label": "System: Great, have a great night! (I think the chat is actually done now)"}
+{"pred": "System: I like action movies and horror movies. What are some of your favorite horror movies?", "label": "System: Family friendly or more geared for when they go to bed?"}
+{"pred": "System: I love movies with a little bit of action. I also like movies with lots of action, and a little romance.", "label": "System: What was the last movie you saw that you loved?"}
+{"pred": "System: I think you would really like <movie>. It is a very good movie.", "label": "System: Have you seen the movie Creed?"}
+{"pred": "System: I have seen it. It was a great movie. I also really like The Rock.", "label": "System: How about Mad Max Fury Road?"}
+{"pred": "System: You too!", "label": "System: Yea I think you will really like it!"}
+{"pred": "System: I think it's a great movie.", "label": "System: I agree, but I think you were really like this. The actor who played Bane is the lead."}
+{"pred": "System: It's a great movie.", "label": "System: All three <movie> movies are a great idea too if you have a lot of time to pass."}
+{"pred": "System: Great!", "label": "System: Well with everyone staying in, you will need a good movie. Have you seen the new Christian Bale movie with the cars?"}
+{"pred": "System: Awesome! I hope you enjoy the movie!", "label": "System: yeah, matt damon is in it too and he is great in a bunch of films."}
+{"pred": "System: I'm doing good. I'm looking for a movie trailer", "label": "System: fine i am here to help you find a good movie"}
+{"pred": "System: I'm not sure what you are looking for. I like action and drama", "label": "System: what is your favorite genre?"}
+{"pred": "System: i like sci fi and action movies", "label": "System: what is the last movie you watched?"}
+{"pred": "System: oh nice that is a good one. I have seen that one a lot.", "label": "System: Have you seen <movie>"}
+{"pred": "System: it was a good one. I saw it in theaters and it was pretty good.", "label": "System: After staging his own suicide, a crazed scientist uses his power to become invisible to stalk and terrorize his ex-girlfriend. When the police refuse to believe her story, she decides to take matters into her own hands and fight back."}
+{"pred": "System: I think you will like it.", "label": "System: or Artemis Fowl"}
+{"pred": "System: It's a comedy about a man who is a cop and his wife is a victim.", "label": "System: Artemis Fowl is a 12-year-old genius and descendant of a long line of criminal masterminds. He soon finds himself in an epic battle against a race of powerful underground fairies who may be behind his father's disappearance."}
+{"pred": "System: I think you will like it. It's a great movie.", "label": "System: how about Underwater"}
+{"pred": "System: It's a great movie. It's about a group of people who are trying to find out who the killer is and they're going to find a killer.", "label": "System: Disaster strikes more than six miles below the ocean surface when water crashes through the walls of a drilling station. Led by their captain, the survivors realize that their only hope is to walk across the sea floor to reach the main part of the facility. But they soon find themselves in a fight for their lives when they come under attack from mysterious and deadly creatures that no one has ever seen."}
+{"pred": "System: I do! What kind of movies do you like?", "label": "System: What are some of your favorite movies?"}
+{"pred": "System: I love those too! What was the last movie you watched?", "label": "System: Got it"}
+{"pred": "System: I agree! I think you would really enjoy it.", "label": "System: Interesting! Do you have a preference in actors or directors?"}
+{"pred": "System: I think you would like <movie>. It's a horror movie about a man who's trying to find out what he's doing and he's not going to find anything out.", "label": "System: Have you seen the movie <movie>?"}
+{"pred": "System: It's a horror movie about a man who is a ghost and a ghost. It's about a ghost who is trying to find out what he's doing.", "label": "System: It's about this couple who's lives are thrown into a tailspin when an acquaintance from the past brings mysterious gifts and a horrifying secret."}
+{"pred": "System: The movie is called The Gift. It's a horror movie about a family who are trying to find out who they are trying for and they are forced to find a way to get away from their own prejudices.", "label": "System: Rebecca Hall, Jason Bateman, Tim Griffin"}
+{"pred": "System: I think it's a newer movie called The Gift. It's a horror movie about a young girl who is a young woman who is in the process of becoming a professional assassin.", "label": "System: Joel Edgerton"}
+{"pred": "System: I think it's a little under rated. It's a comedy and is a bit of a drama.", "label": "System: Rated R"}
+{"pred": "System: Great! I hope you enjoy it! Have a great day!", "label": "System: So would you like to watch the movie trailer?"}
+{"pred": "System: What kind of movies do you like?", "label": "System: Do you know what kind of movie trailers you would like to see?"}
+{"pred": "System: I like superhero movies! What is the latest movie you have watched?", "label": "System: Superhero movies! Great! I am a big fan of those as well. What was the last superhero movie that you watched?"}
+{"pred": "System: I love that movie! I recently watched the first one with my wife. It was a good movie.", "label": "System: Very cool! I like that movie series as well. Have you seen <movie>?"}
+{"pred": "System: I love that movie! I also like the Avengers movie.", "label": "System: Darn, okay! Well, you have good taste. Do you like action movies?"}
+{"pred": "System: Have you heard of the new movie that is coming out?", "label": "System: Okay, how about Ford vs. Ferrari? I LOVED that movie, and it's about racing."}
+{"pred": "System: I love that movie! I also really like the Avengers movies.", "label": "System: Okay, here is the movie and the plot. Let me know what you think."}
+{"pred": "System: I think you will enjoy it.", "label": "System: Great! I'm so glad that I could help you find a movie that you would like to watch. Would you like to see the trailer? Or did you already watch it?"}
+{"pred": "System: I did! It was great!", "label": "System: Okay awesome. Is there anything else I can help you with?"}
+{"pred": "System: I think you will like it.", "label": "System: Okay, have a great day."}
+{"pred": "System: I'm doing good. How are you?", "label": "System: Great, glad to hear that, so do you like to watch movies? what type of movies do you like?"}
+{"pred": "System: What was the last movie you watched?", "label": "System: Do you like comedy with action movies?"}
+{"pred": "System: I agree, what is the last movie you watched?", "label": "System: I see so mostly comedy movies, I like those as well"}
+{"pred": "System: The last movie I saw was the new movie <movie> with Tom Hanks and the actor who plays him in the movie.", "label": "System: I like comedy movies as well but my favorite genre is action and also superhero movies, I really like those."}
+{"pred": "System: Yes, I love the Marvel and Marvel movies.", "label": "System: Yeah like Marvel movies, exactly, did you happen to watch Deadpool? that movie is great and with a lot of comedy in it."}
+{"pred": "System: Oh, I love it. I think you will like it. Have you seen it?", "label": "System: Then you will really like it, Ryan Reynolds is the leading actor and he is really funny. There are 2 parts so far and the third one is coming."}
+{"pred": "System: Great! I hope you enjoy it. Have a great day.", "label": "System: Yeah you definitely should, he is my favorite hero/anti hero"}
+{"pred": "System: It's a great movie. I think you'll like it. I'm sure you'll enjoy it. Have a great day.", "label": "System: It is, and if you like superhero movies then thats a plus,the movie sure has a great cast."}
+{"pred": "System: Great! I hope you enjoy it!", "label": "System: Ok I hope that you like it have a nice day."}
+{"pred": "System: What kind of movies do you like?", "label": "System: How are you?"}
+{"pred": "System: I'm doing good. What kind of movies do you like?", "label": "System: Good. Have you seen any good movies lately?"}
+{"pred": "System: I recently watched <movie>. It was really good.", "label": "System: What movie?"}
+{"pred": "System: I like that movie! What is it about?", "label": "System: Never heard of it. What did you like/dislike about it?"}
+{"pred": "System: I think you would like <movie>", "label": "System: Very cool. Is it more of a romance movie?"}
+{"pred": "System: I think you would really like <movie>", "label": "System: Ahh. If you like movies about friendships, I recommend watching Thelma and Louise. It's a great movie about friendship."}
+{"pred": "System: It's about a man who has to find out his life is over and he has to go to the future to find his life.", "label": "System: <movie> is also a great one!"}
+{"pred": "System: I think you will like it.", "label": "System: Yes, I hope you enjoy!"}
+{"pred": "System: I hope so too!", "label": "System: You are welcome, take care :)"}
+{"pred": "System: what kind of movies do you like?", "label": "System: what is the latest movie you watched?"}
+{"pred": "System: oh nice. I like that movie.", "label": "System: have you ever seen <movie>?"}
+{"pred": "System: it's a comedy", "label": "System: it also has Jennifer Lawrence."}
+{"pred": "System: she plays a girl who is a cop and a cop.", "label": "System: she helps her conman husband work with the FBI. it also has bradley cooper in it."}
+{"pred": "System: thriller.", "label": "System: a little of all those! but mainly a crime/drama"}
+{"pred": "System: ok. I hope you enjoy it. I'm sure you'll enjoy it", "label": "System: awesome!! you will enjoy it!!"}
+{"pred": "System: yes i have", "label": "System: yes, a couple times"}
+{"pred": "System: no not yet", "label": "System: that i am not sure about"}
+{"pred": "System: ok, i'll send it to you", "label": "System: i know...such a crazy time we are living through right now."}
+{"pred": "System: I am doing great. I am looking for a good movie to watch.", "label": "System: Am alright. Except for you know... Um, I am here to help you with a movie trailer."}
+{"pred": "System: What was the last movie you watched?", "label": "System: Oh alright. You're in good hands. What genres do you like? Comedy, scifi, action, romance :-)?"}
+{"pred": "System: I think you'd like <movie>. It's a comedy/scifi movie.", "label": "System: Okay thats fine. What was the last movie you watched, if you can remember?"}
+{"pred": "System: I think you might like it.", "label": "System: Okay. So lets indulge in comedy"}
+{"pred": "System: I think you'll like it.", "label": "System: Do you know Kevin hart? He is super hilarious."}
+{"pred": "System: I think you'll like it.", "label": "System: Lol okay. Have you seen <movie>?"}
+{"pred": "System: I think you'll like it.", "label": "System: Never-ending! I thought I was the only one with that list. Anyway since you already have it, how about <movie>?"}
+{"pred": "System: It's a comedy comedy with a little bit of comedy. It is a comedy and a comedy with some comedy bits.", "label": "System: It's about a socially awkward guy that hires company owner that provides best men for grooms in need.. It has 2 awards and 4 nominations."}
+{"pred": "System: I think it's about the guy who gets married to his wife.", "label": "System: Kevin Hart, Josh Gad, Affion Crockett and Kaley Cuoco"}
+{"pred": "System: I think you will like it. It is a comedy comedy with a great cast.", "label": "System: Do you like the recommendation? Heck I have to add it to my list as well."}
+{"pred": "System: I'm glad you like it!", "label": "System: You happiness is my mission. Would you like to watch the trailer?"}
+{"pred": "System: I hear you<movie> is a good one. I'm looking for a good action movie.", "label": "System: How can I help you today?"}
+{"pred": "System: What kind of movies do you like?", "label": "System: What type of movies may be of interest to you?"}
+{"pred": "System: I love comedies and action movies too! What was the last movie you watched?", "label": "System: May I interest you a scary movie?"}
+{"pred": "System: I think you would really like <movie>. It's a horror movie with a lot of action and drama", "label": "System: Okay. What are some good comedies you've seen recently?"}
+{"pred": "System: I think you would really like the movie <movie>", "label": "System: These aren't very new movies. I'm a fan of comedies as well."}
+{"pred": "System: I think you would like it.", "label": "System: I've got an idea of what kind of form of movies that you'd like."}
+{"pred": "System: Have you seen the movie <movie>?", "label": "System: What about Chris Pratt?"}
+{"pred": "System: Oh yeah, I like him too.", "label": "System: <movie>, but show is Jesse Eisenburg"}
+{"pred": "System: Have you seen the movie <movie>?", "label": "System: I'm going to try to watch <movie>, and that has Mr. Eisenburg in it. I can't find that on this recommendation list though. Glad you liked it!"}
+{"pred": "System: It was a great movie. I think you will enjoy it.", "label": "System: Right but I haven't helped you find what you've wanted yet."}
+{"pred": "System: I'm doing good. I'm here to help you find a movie trailer.", "label": "System: I am good, thanks. What kind of movies do you enjoy watching?"}
+{"pred": "System: My favorite is <movie>. I love the movie about the time travel.", "label": "System: That's great! I like comedy's mostly. What is your favorite Sci Fi movie?"}
+{"pred": "System: What did you like about the movie? What did it have to do with the story?", "label": "System: Love those too. Have you ever seen <movie>? I really enjoyed that movie. It seems like it would easily be one I would watch over and over again."}
+{"pred": "System: I would recommend watching the movie <movie>. It is a great movie.", "label": "System: If you enjoy Marvel movies you should definitely try watching <movie>. It great to see how some of the marvel characters are connected and how she came to be."}
+{"pred": "System: I'm glad you enjoy it!", "label": "System: That's great! I'm sure you will enjoy it!"}
+{"pred": "System: I'm glad you enjoy it. I hope you enjoy the movie!", "label": "System: You'll have to let me know your favorite parts when you see it."}
+{"pred": "System: I think it's a great movie!", "label": "System: Brie Larson Stars in this movie as <movie>, and of course Samuel L Jackson appears as Nick Fury."}
+{"pred": "System: I think it's about a young Nick Fury and his adventures with his friends.", "label": "System: When she realizes there is more to who she is and stops at nothing to figure it all out."}
+{"pred": "System: I'm glad you enjoyed it! I hope you enjoy the movie!", "label": "System: You too!"}
+{"pred": "System: What kind of movies do you like?", "label": "System: What types of movies do you generally like?"}
+{"pred": "System: I love that movie. What was the last movie you watched?", "label": "System: Which of those genres is your favorite?"}
+{"pred": "System: I think you would really like <movie>. It's a very dark and serious movie.", "label": "System: I have a good movie for you is called Stubber."}
+{"pred": "System: It's a very good movie. It's about a man who is trying to find out who he is and what he does he does wrong.", "label": "System: Its about a cop recruiting an uber driver to help him catch the person who killed his partner."}
+{"pred": "System: Yes, I have seen it. It's a great movie.", "label": "System: I have seen this movie and I think you will like it. Dave Bautista looks good in this movie"}
+{"pred": "System: <movie>, <movie> and <movie> are all great movies.", "label": "System: I like action movies and comedies as well."}
+{"pred": "System: It's a great movie. I think it's a good one.", "label": "System: Very good movie. Stuber had a very good plot and a good cast."}
+{"pred": "System: Yes, it's a great movie.", "label": "System: I usually go to evening movies at the movie theatre"}
+{"pred": "System: Yes, I do.", "label": "System: I did a few years back. My late father wanted me to go to Hollywood and become an actor."}
+{"pred": "System: Yes, I did", "label": "System: I might in the future. I never say never."}
+{"pred": "System: What kind of movies do you like?", "label": "System: What kind of movies do you prefer?"}
+{"pred": "System: I like comedies and action movies. What was the last movie you watched?", "label": "System: Can you name one that you liked as an example?"}
+{"pred": "System: I think you would really like <movie>. It's a comedy and a comedy.", "label": "System: He is a lot like Scorcese - so I would recommend <movie>"}
+{"pred": "System: I think <movie> is a good one. It's a very good movie.", "label": "System: Then how about El Camino?"}
+{"pred": "System: I would like to recommend The <movie>, it's a comedy and a comedy.", "label": "System: Try looking at Goodfellas"}
+{"pred": "System: I think you will enjoy <movie>. It's a great movie about a man who is a drug addict and his life is a bit of a mystery.", "label": "System: Good then sounds like you are good to go"}
+{"pred": "System: I think you will enjoy it. I hope you enjoy it!", "label": "System: you're welcome - bye now"}
+{"pred": "System: I hope you enjoy it!", "label": "System: Will you be watching the trailer now?"}
+{"pred": "System: I think you will enjoy it.", "label": "System: It has not been out vry long"}
