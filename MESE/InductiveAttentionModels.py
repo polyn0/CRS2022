@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[169]:
-
-
 import math
 
 from transformers import GPT2LMHeadModel, GPT2Tokenizer, AdamW, get_linear_schedule_with_warmup, GPT2Config
@@ -14,15 +10,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-
-# In[170]:
-
-
 test = None
-
-
-# In[171]:
-
 
 class MLP(nn.Module):
     def __init__(self, n_state, config):  # in MLP: n_state=3072 (4 * n_embd)
@@ -237,10 +225,6 @@ class AttentionIA(nn.Module):
         a = self.resid_dropout(a)
 
         return (a, present) + attn_outputs[1:]  # a, present, (attentions)
-
-
-# In[172]:
-
 
 class GPT2InductiveAttention(GPT2Model):
     def __init__(self, config):
